@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/border"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="48dp">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_alignParentTop="true"
+            android:adjustViewBounds="true"
+            android:gravity="center_horizontal"
+            android:paddingBottom="5dp"
+            android:paddingTop="14dp"
+            android:text="@string/texto_mis_direcciones" />
+
+        <ImageView
+            android:id="@+id/btn_volver"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:adjustViewBounds="true"
+            android:contentDescription="@string/app_name"
+            android:src="@drawable/btn_back" />
+
+        <Button
+            android:id="@+id/btn_add"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_alignParentEnd="true"
+            android:layout_gravity="center_horizontal|bottom"
+            android:layout_marginRight="6dp"
+            android:adjustViewBounds="true"
+            android:background="@color/white"
+            android:text="@string/texto_agregar_nueva"
+            android:textColor="@color/gray_text" />
+
+    </RelativeLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#CCCCCC"
+        android:orientation="vertical">
+
+    </LinearLayout>
+
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:id="@+id/direccion_completar"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:background="@color/gray_light"
+            android:orientation="vertical">
+
+            <android.support.v7.widget.RecyclerView
+                android:id="@+id/addresses_list"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="1dp"
+                android:layout_marginLeft="1dp"
+                android:layout_marginRight="1dp"
+                android:layout_marginTop="1dp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/add_new"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_gravity="bottom"
+            android:layout_marginTop="300dp"
+            android:gravity="bottom"
+            android:orientation="vertical"
+            android:visibility="gone">
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="bottom"
+                android:background="@color/background_gray"
+                android:gravity="bottom"
+                android:orientation="vertical">
+
+                <EditText
+                    android:id="@+id/new_nombre"
+                    android:layout_width="fill_parent"
+                    android:layout_height="45dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="5dp"
+                    android:background="#FFFFFF"
+                    android:drawableLeft="@drawable/draw1left"
+                    android:elevation="4dp"
+                    android:gravity="center_vertical"
+                    android:hint="@string/new_name_hint"
+                    android:paddingLeft="4dp"
+                    android:singleLine="true"
+                    android:textColor="@color/edit_color" />
+
+                <EditText
+                    android:id="@+id/new_direccion"
+                    android:layout_width="fill_parent"
+                    android:layout_height="45dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="5dp"
+                    android:background="#FFFFFF"
+                    android:drawableLeft="@drawable/draw2left"
+                    android:elevation="4dp"
+                    android:gravity="center_vertical"
+                    android:hint="@string/new_address_hint"
+                    android:paddingLeft="4dp"
+                    android:singleLine="true"
+                    android:textColor="@color/edit_color" />
+
+                <EditText
+                    android:id="@+id/new_comentario"
+                    android:layout_width="fill_parent"
+                    android:layout_height="45dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="5dp"
+                    android:background="#FFFFFF"
+                    android:drawableLeft="@drawable/draw3left"
+                    android:elevation="4dp"
+                    android:gravity="center_vertical"
+                    android:hint="@string/new_detail_hint"
+                    android:paddingLeft="4dp"
+                    android:singleLine="true"
+                    android:textColor="@color/edit_color" />
+
+                <Button
+                    android:id="@+id/btn_nueva_direccion"
+                    android:layout_width="match_parent"
+                    android:layout_height="45dp"
+                    android:layout_gravity="center_horizontal|bottom"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="5dp"
+                    android:background="@drawable/btn_n"
+                    android:text="@string/btn_new_address"
+                    android:textColor="@color/white" />
+
+
+            </LinearLayout>
+
+        </LinearLayout>
+    </RelativeLayout>
+
+</LinearLayout>
+

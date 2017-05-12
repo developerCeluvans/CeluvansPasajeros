@@ -1,0 +1,984 @@
+Searching 1018 files for "URL_BASE"
+
+0 matches
+
+Searching 1018 files for "img/drive"
+
+0 matches
+
+Searching 1018 files for "www.taxisya.co"
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/.gradle/2.10/taskArtifacts/taskArtifacts.bin:
+    <binary>
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/.gradle/2.2.1/taskArtifacts/taskArtifacts.bin:
+    <binary>
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/build.gradle:
+   37  //            buildConfigField 'String', "HOST", '"45.55.189.117/taxisya"'
+   38  //            buildConfigField 'String', "HOST", '"104.237.131.48"'
+   39:             buildConfigField 'String', "HOST", '"www.taxisya.co/dev"'
+   40
+   41          }
+   ..
+   53              buildConfigField "boolean", "USE_CRASHLYTICS", "true"
+   54  //            buildConfigField 'String', "HOST", '"192.237.188.107"'
+   55:             buildConfigField 'String', "HOST", '"www.taxisya.co"'
+   56
+   57              applicationVariants.all { variant ->
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/build/generated/source/buildConfig/androidTest/debug/com/imaginamos/usuariofinal/taxisya/test/BuildConfig.java:
+   12    public static final String VERSION_NAME = "5.0";
+   13    // Fields from build type: debug
+   14:   public static final String HOST = "www.taxisya.co/dev";
+   15    public static final boolean USE_CRASHLYTICS = true;
+   16    public static final boolean USE_PUSH = true;
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/build/generated/source/buildConfig/debug/com/imaginamos/usuariofinal/taxisya/BuildConfig.java:
+   12    public static final String VERSION_NAME = "5.0";
+   13    // Fields from build type: debug
+   14:   public static final String HOST = "www.taxisya.co/dev";
+   15    public static final boolean USE_CRASHLYTICS = true;
+   16    public static final boolean USE_PUSH = true;
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex:
+    <binary>
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/src/main/java/com/imaginamos/usuariofinal/taxisya/comm/Connect.java:
+   26
+   27  	  // produccion
+   28: 	  public static final String BASE_URL_IP = "http://www.taxisya.co/";
+   29
+   30  	  // desarrollo
+   31: 	  //public static final String BASE_URL_IP = "http://www.taxisya.co/dev/";
+   32
+   33
+   ..
+   39
+   40  	  // produccion
+   41: 	  //public static final String BASE_URL = "http://www.taxisya.co/public/";
+   42: 	  //public static final String BASE_NODE = "http://www.taxisya.co:3700/";
+   43
+   44  	  // desarrollo
+   45:   	  public static final String BASE_URL = "http://www.taxisya.co/dev/public/";
+   46: 	  public static final String BASE_NODE = "http://www.taxisya.co:3701/";
+   47
+   48
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/src/main/java/com/imaginamos/usuariofinal/taxisya/io/ApiConstants.java:
+   12
+   13      // produccion
+   14:     public static final String BASE_URL = "http://www.taxisya.co/public";
+   15:     public static final String BASE_NODE = "http://www.taxisya.co:3700/";
+   16
+   17      // desarrollo
+   18:     //public static final String BASE_URL = "http://www.taxisya.co/dev/public";
+   19:     //public static final String BASE_NODE = "http://www.taxisya.co:3701/";
+   20
+   21
+
+39 matches across 8 files
+
+
+Searching 1018 files for "BASE_URL_IP"
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/taxisyausuarios.sublime-workspace:
+  802  			"texto_falta",
+  803  			"descargarFoto",
+  804: 			"BASE_URL_IP",
+  805  			"mySQLiteAdapter",
+  806  			"MiddleConnect.",
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex:
+    <binary>
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/src/main/java/com/imaginamos/usuariofinal/taxisya/activities/ConfirmacionActivity.java:
+  609              }
+  610
+  611:             descargarFoto(Connect.BASE_URL_IP + foto);
+  612
+  613              nombre_taxista.setText(nombre);
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/src/main/java/com/imaginamos/usuariofinal/taxisya/comm/Connect.java:
+   23
+   24        // dev leo
+   25: //	  public static final String BASE_URL_IP = "http://192.237.188.107/";
+   26
+   27  	  // produccion
+   28: 	  public static final String BASE_URL_IP = "http://www.taxisya.co/dev";
+   29
+   30  	  // desarrollo
+   31: 	  //public static final String BASE_URL_IP = "http://www.taxisya.co/dev/";
+   32
+   33
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/src/main/java/com/imaginamos/usuariofinal/taxisya/items/HistoricoView.java:
+   52  		if(servicio.getFoto()!=null && !servicio.getFoto().equals("null"))
+   53  		{
+   54: 			descargarFoto(Connect.BASE_URL_IP+servicio.getFoto());
+   55  		}
+   56
+
+7 matches across 5 files
+
+
+Searching 1018 files for "www.taxisya.co"
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/.gradle/2.10/taskArtifacts/taskArtifacts.bin:
+    <binary>
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/.gradle/2.2.1/taskArtifacts/taskArtifacts.bin:
+    <binary>
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/build.gradle:
+   37  //            buildConfigField 'String', "HOST", '"45.55.189.117/taxisya"'
+   38  //            buildConfigField 'String', "HOST", '"104.237.131.48"'
+   39:             buildConfigField 'String', "HOST", '"www.taxisya.co/dev"'
+   40
+   41          }
+   ..
+   53              buildConfigField "boolean", "USE_CRASHLYTICS", "true"
+   54  //            buildConfigField 'String', "HOST", '"192.237.188.107"'
+   55:             buildConfigField 'String', "HOST", '"www.taxisya.co"'
+   56
+   57              applicationVariants.all { variant ->
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/build/generated/source/buildConfig/androidTest/debug/com/imaginamos/usuariofinal/taxisya/test/BuildConfig.java:
+   12    public static final String VERSION_NAME = "5.0";
+   13    // Fields from build type: debug
+   14:   public static final String HOST = "www.taxisya.co/dev";
+   15    public static final boolean USE_CRASHLYTICS = true;
+   16    public static final boolean USE_PUSH = true;
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/build/generated/source/buildConfig/debug/com/imaginamos/usuariofinal/taxisya/BuildConfig.java:
+   12    public static final String VERSION_NAME = "5.0";
+   13    // Fields from build type: debug
+   14:   public static final String HOST = "www.taxisya.co/dev";
+   15    public static final boolean USE_CRASHLYTICS = true;
+   16    public static final boolean USE_PUSH = true;
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex:
+    <binary>
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/src/main/java/com/imaginamos/usuariofinal/taxisya/comm/Connect.java:
+   26
+   27  	  // produccion
+   28: 	  public static final String BASE_URL_IP = "http://www.taxisya.co/dev";
+   29
+   30  	  // desarrollo
+   31: 	  //public static final String BASE_URL_IP = "http://www.taxisya.co/dev/";
+   32
+   33
+   ..
+   39
+   40  	  // produccion
+   41: 	  //public static final String BASE_URL = "http://www.taxisya.co/public/";
+   42: 	  //public static final String BASE_NODE = "http://www.taxisya.co:3700/";
+   43
+   44  	  // desarrollo
+   45:   	  public static final String BASE_URL = "http://www.taxisya.co/dev/public/";
+   46: 	  public static final String BASE_NODE = "http://www.taxisya.co:3701/";
+   47
+   48
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/src/main/java/com/imaginamos/usuariofinal/taxisya/io/ApiConstants.java:
+   12
+   13      // produccion
+   14:     public static final String BASE_URL = "http://www.taxisya.co/public";
+   15:     public static final String BASE_NODE = "http://www.taxisya.co:3700/";
+   16
+   17      // desarrollo
+   18:     //public static final String BASE_URL = "http://www.taxisya.co/dev/public";
+   19:     //public static final String BASE_NODE = "http://www.taxisya.co:3701/";
+   20
+   21
+
+39 matches across 8 files
+
+
+Searching 1018 files for "BASE_URL_IP"
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/taxisyausuarios.sublime-workspace:
+  802  			"texto_falta",
+  803  			"descargarFoto",
+  804: 			"BASE_URL_IP",
+  805  			"mySQLiteAdapter",
+  806  			"MiddleConnect.",
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex:
+    <binary>
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/src/main/java/com/imaginamos/usuariofinal/taxisya/activities/ConfirmacionActivity.java:
+  609              }
+  610
+  611:             descargarFoto(Connect.BASE_URL_IP + foto);
+  612
+  613              nombre_taxista.setText(nombre);
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/src/main/java/com/imaginamos/usuariofinal/taxisya/comm/Connect.java:
+   23
+   24        // dev leo
+   25: //	  public static final String BASE_URL_IP = "http://192.237.188.107/";
+   26
+   27  	  // produccion
+   28: 	  public static final String BASE_URL_IP = "http://www.taxisya.co/dev";
+   29
+   30  	  // desarrollo
+   31: 	  //public static final String BASE_URL_IP = "http://www.taxisya.co/dev/";
+   32
+   33
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/src/main/java/com/imaginamos/usuariofinal/taxisya/items/HistoricoView.java:
+   52  		if(servicio.getFoto()!=null && !servicio.getFoto().equals("null"))
+   53  		{
+   54: 			descargarFoto(Connect.BASE_URL_IP+servicio.getFoto());
+   55  		}
+   56
+
+7 matches across 5 files
+
+
+Searching 1018 files for "taxisya.co"
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/.gradle/2.10/taskArtifacts/taskArtifacts.bin:
+    <binary>
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/.gradle/2.10/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin:
+    <binary>
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/.gradle/2.10/tasks/_app_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin:
+    <binary>
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/.gradle/2.2.1/taskArtifacts/taskArtifacts.bin:
+    <binary>
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/build.gradle:
+   37  //            buildConfigField 'String', "HOST", '"45.55.189.117/taxisya"'
+   38  //            buildConfigField 'String', "HOST", '"104.237.131.48"'
+   39:             buildConfigField 'String', "HOST", '"www.taxisya.co/dev"'
+   40
+   41          }
+   ..
+   53              buildConfigField "boolean", "USE_CRASHLYTICS", "true"
+   54  //            buildConfigField 'String', "HOST", '"192.237.188.107"'
+   55:             buildConfigField 'String', "HOST", '"www.taxisya.co"'
+   56
+   57              applicationVariants.all { variant ->
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/build/generated/source/buildConfig/androidTest/debug/com/imaginamos/usuariofinal/taxisya/test/BuildConfig.java:
+   12    public static final String VERSION_NAME = "5.1";
+   13    // Fields from build type: debug
+   14:   public static final String HOST = "www.taxisya.co/dev";
+   15    public static final boolean USE_CRASHLYTICS = true;
+   16    public static final boolean USE_PUSH = true;
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/build/generated/source/buildConfig/debug/com/imaginamos/usuariofinal/taxisya/BuildConfig.java:
+   12    public static final String VERSION_NAME = "5.1";
+   13    // Fields from build type: debug
+   14:   public static final String HOST = "www.taxisya.co/dev";
+   15    public static final boolean USE_CRASHLYTICS = true;
+   16    public static final boolean USE_PUSH = true;
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/build/intermediates/bundles/debug/instant-run/AndroidManifest.xml:
+  134
+  135          <receiver
+  136:             android:name="com.imaginamos.usuariofinal.taxisya.comm.GcmBroadcastReceiver"
+  137              android:permission="com.google.android.c2dm.permission.SEND" >
+  138              <intent-filter>
+  ...
+  143          </receiver>
+  144
+  145:         <service android:name="com.imaginamos.usuariofinal.taxisya.comm.GcmIntentServices" />
+  146
+  147          <activity
+  ...
+  171          </activity>
+  172          <activity
+  173:             android:name="com.imaginamos.usuariofinal.taxisya.comm.NewAddressActivity"
+  174              android:label="@string/title_activity_new_address"
+  175              android:screenOrientation="portrait"
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:
+  133
+  134          <receiver
+  135:             android:name="com.imaginamos.usuariofinal.taxisya.comm.GcmBroadcastReceiver"
+  136              android:permission="com.google.android.c2dm.permission.SEND" >
+  137              <intent-filter>
+  ...
+  142          </receiver>
+  143
+  144:         <service android:name="com.imaginamos.usuariofinal.taxisya.comm.GcmIntentServices" />
+  145
+  146          <activity
+  ...
+  170          </activity>
+  171          <activity
+  172:             android:name="com.imaginamos.usuariofinal.taxisya.comm.NewAddressActivity"
+  173              android:label="@string/title_activity_new_address"
+  174              android:screenOrientation="portrait"
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/build/intermediates/res/merged/debug/menu/menu_new_address.xml:
+    2      xmlns:app="http://schemas.android.com/apk/res-auto"
+    3      xmlns:tools="http://schemas.android.com/tools"
+    4:     tools:context="com.imaginamos.usuariofinal.taxisya.comm.NewAddressActivity">
+    5      <item android:id="@+id/action_settings" android:title="@string/action_settings"
+    6          android:orderInCategory="100" app:showAsAction="never" />
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex:
+    <binary>
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/build/outputs/logs/manifest-merger-debug-report.txt:
+  453  	android:name
+  454  		ADDED from /Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/src/main/AndroidManifest.xml:129:13-56
+  455: receiver#com.imaginamos.usuariofinal.taxisya.comm.GcmBroadcastReceiver
+  456  ADDED from /Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/src/main/AndroidManifest.xml:134:9-142:20
+  457  	android:permission
+  ...
+  469  	android:name
+  470  		ADDED from /Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/src/main/AndroidManifest.xml:140:27-77
+  471: service#com.imaginamos.usuariofinal.taxisya.comm.GcmIntentServices
+  472  ADDED from /Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/src/main/AndroidManifest.xml:144:9-59
+  473  	android:name
+  ...
+  511  	android:name
+  512  		ADDED from /Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/src/main/AndroidManifest.xml:167:13-57
+  513: activity#com.imaginamos.usuariofinal.taxisya.comm.NewAddressActivity
+  514  ADDED from /Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/src/main/AndroidManifest.xml:171:9-176:20
+  515  	android:screenOrientation
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/src/main/java/com/imaginamos/taxisya/activities/MapaActivitys.java:
+  100  import com.imaginamos.usuariofinal.taxisya.activities.RegistroActivity;
+  101  import com.imaginamos.usuariofinal.taxisya.adapter.BDAdapter;
+  102: import com.imaginamos.usuariofinal.taxisya.comm.Preferencias;
+  103  import com.imaginamos.usuariofinal.taxisya.dialogs.Dialogos;
+  104  import com.imaginamos.usuariofinal.taxisya.utils.Actions;
+  105  import com.imaginamos.usuariofinal.taxisya.models.Conf;
+  106: import com.imaginamos.usuariofinal.taxisya.comm.Connectivity;
+  107: import com.imaginamos.usuariofinal.taxisya.comm.MiddleConnect;
+  108: import com.imaginamos.usuariofinal.taxisya.comm.NewAddressActivity;
+  109  import com.imaginamos.usuariofinal.taxisya.models.Target;
+  110  import com.imaginamos.usuariofinal.taxisya.models.Error;
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/src/main/java/com/imaginamos/usuariofinal/taxisya/activities/AgendarActivity.java:
+   53  import com.imaginamos.usuariofinal.taxisya.utils.Actions;
+   54  import com.imaginamos.usuariofinal.taxisya.models.Conf;
+   55: import com.imaginamos.usuariofinal.taxisya.comm.MiddleConnect;
+   56  import com.imaginamos.usuariofinal.taxisya.utils.Utils;
+   57  import com.imaginamos.usuariofinal.taxisya.R;
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/src/main/java/com/imaginamos/usuariofinal/taxisya/activities/CalificarActivity.java:
+   19  import com.imaginamos.taxisya.activities.MapaActivitys;
+   20  import com.imaginamos.usuariofinal.taxisya.adapter.BDAdapter;
+   21: import com.imaginamos.usuariofinal.taxisya.comm.MiddleConnect;
+   22: import com.imaginamos.usuariofinal.taxisya.comm.Preferencias;
+   23  import com.imaginamos.usuariofinal.taxisya.io.ApiAdapter;
+   24  import com.imaginamos.usuariofinal.taxisya.io.ServiceResponse;
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/src/main/java/com/imaginamos/usuariofinal/taxisya/activities/ConfirmacionActivity.java:
+   38  import com.imaginamos.usuariofinal.taxisya.utils.Actions;
+   39  import com.imaginamos.usuariofinal.taxisya.models.Conf;
+   40: import com.imaginamos.usuariofinal.taxisya.comm.Connect;
+   41: import com.imaginamos.usuariofinal.taxisya.comm.MiddleConnect;
+   42  import com.imaginamos.usuariofinal.taxisya.utils.Utils;
+   43  import com.imaginamos.usuariofinal.taxisya.R;
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/src/main/java/com/imaginamos/usuariofinal/taxisya/activities/EndAgendamientoActivity.java:
+   16
+   17  import com.imaginamos.usuariofinal.taxisya.models.Conf;
+   18: import com.imaginamos.usuariofinal.taxisya.comm.MiddleConnect;
+   19  import com.imaginamos.usuariofinal.taxisya.utils.Utils;
+   20  import com.imaginamos.usuariofinal.taxisya.R;
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/src/main/java/com/imaginamos/usuariofinal/taxisya/activities/HistorialActivity.java:
+   35  import com.imaginamos.usuariofinal.taxisya.utils.Actions;
+   36  import com.imaginamos.usuariofinal.taxisya.models.Conf;
+   37: import com.imaginamos.usuariofinal.taxisya.comm.MiddleConnect;
+   38  import com.imaginamos.usuariofinal.taxisya.utils.Utils;
+   39  import com.imaginamos.usuariofinal.taxisya.R;
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/src/main/java/com/imaginamos/usuariofinal/taxisya/activities/HomeActivity.java:
+   46  import com.imaginamos.taxisya.activities.MapaActivitys;
+   47  import com.imaginamos.usuariofinal.taxisya.BuildConfig;
+   48: import com.imaginamos.usuariofinal.taxisya.comm.Preferencias;
+   49  import com.imaginamos.usuariofinal.taxisya.dialogs.Dialogos;
+   50  import com.imaginamos.usuariofinal.taxisya.utils.Actions;
+   51  import com.imaginamos.usuariofinal.taxisya.models.Conf;
+   52: import com.imaginamos.usuariofinal.taxisya.comm.Connectivity;
+   53: import com.imaginamos.usuariofinal.taxisya.comm.GooglePushNotification;
+   54: import com.imaginamos.usuariofinal.taxisya.comm.MiddleConnect;
+   55  import com.imaginamos.usuariofinal.taxisya.models.Target;
+   56  import com.imaginamos.usuariofinal.taxisya.utils.Utils;
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/src/main/java/com/imaginamos/usuariofinal/taxisya/activities/LoginActivity.java:
+   18
+   19  import com.imaginamos.usuariofinal.taxisya.models.Conf;
+   20: import com.imaginamos.usuariofinal.taxisya.comm.MiddleConnect;
+   21  import com.imaginamos.usuariofinal.taxisya.utils.Utils;
+   22  import com.imaginamos.usuariofinal.taxisya.R;
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/src/main/java/com/imaginamos/usuariofinal/taxisya/activities/MisAgendamientosActivity.java:
+   12  import com.imaginamos.usuariofinal.taxisya.utils.Actions;
+   13  import com.imaginamos.usuariofinal.taxisya.models.Conf;
+   14: import com.imaginamos.usuariofinal.taxisya.comm.MiddleConnect;
+   15  import com.imaginamos.usuariofinal.taxisya.utils.Utils;
+   16  import com.imaginamos.usuariofinal.taxisya.R;
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/src/main/java/com/imaginamos/usuariofinal/taxisya/activities/PerfilActivity.java:
+   24  import com.imaginamos.usuariofinal.taxisya.utils.Actions;
+   25  import com.imaginamos.usuariofinal.taxisya.models.Conf;
+   26: import com.imaginamos.usuariofinal.taxisya.comm.MiddleConnect;
+   27  import com.imaginamos.usuariofinal.taxisya.models.Target;
+   28  import com.imaginamos.usuariofinal.taxisya.utils.Utils;
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/src/main/java/com/imaginamos/usuariofinal/taxisya/activities/ReclamoActivity.java:
+    5  import com.imaginamos.usuariofinal.taxisya.utils.Actions;
+    6  import com.imaginamos.usuariofinal.taxisya.models.Conf;
+    7: import com.imaginamos.usuariofinal.taxisya.comm.MiddleConnect;
+    8  import com.imaginamos.usuariofinal.taxisya.R;
+    9  import com.loopj.android.http.AsyncHttpResponseHandler;
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/src/main/java/com/imaginamos/usuariofinal/taxisya/activities/RegistroActivity.java:
+   18  import com.imaginamos.taxisya.activities.MapaActivitys;
+   19  import com.imaginamos.usuariofinal.taxisya.models.Conf;
+   20: import com.imaginamos.usuariofinal.taxisya.comm.MiddleConnect;
+   21  import com.imaginamos.usuariofinal.taxisya.models.Target;
+   22  import com.imaginamos.usuariofinal.taxisya.utils.Utils;
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/src/main/java/com/imaginamos/usuariofinal/taxisya/activities/ResetPassActivity.java:
+   21  import android.widget.Toast;
+   22
+   23: import com.imaginamos.usuariofinal.taxisya.comm.MiddleConnect;
+   24  import com.imaginamos.usuariofinal.taxisya.utils.Utils;
+   25  import com.imaginamos.usuariofinal.taxisya.R;
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/src/main/java/com/imaginamos/usuariofinal/taxisya/activities/SolicitandoActivity.java:
+   36  import com.imaginamos.usuariofinal.taxisya.utils.Actions;
+   37  import com.imaginamos.usuariofinal.taxisya.models.Conf;
+   38: import com.imaginamos.usuariofinal.taxisya.comm.Connectivity;
+   39  import com.imaginamos.usuariofinal.taxisya.models.Error;
+   40: import com.imaginamos.usuariofinal.taxisya.comm.MiddleConnect;
+   41  import com.imaginamos.usuariofinal.taxisya.R;
+   42  import com.loopj.android.http.AsyncHttpResponseHandler;
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/src/main/java/com/imaginamos/usuariofinal/taxisya/comm/Connect.java:
+    1: package com.imaginamos.usuariofinal.taxisya.comm;
+    2
+    3  import org.apache.http.entity.ByteArrayEntity;
+    .
+   26
+   27  	  // produccion
+   28: 	  public static final String BASE_URL_IP = "http://www.taxisya.co/dev/";
+   29
+   30  	  // desarrollo
+   31: 	  //public static final String BASE_URL_IP = "http://www.taxisya.co/dev/";
+   32
+   33
+   ..
+   39
+   40  	  // produccion
+   41: 	  //public static final String BASE_URL = "http://www.taxisya.co/public/";
+   42: 	  //public static final String BASE_NODE = "http://www.taxisya.co:3700/";
+   43
+   44  	  // desarrollo
+   45:   	  public static final String BASE_URL = "http://www.taxisya.co/dev/public/";
+   46: 	  public static final String BASE_NODE = "http://www.taxisya.co:3701/";
+   47
+   48
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/src/main/java/com/imaginamos/usuariofinal/taxisya/comm/Connectivity.java:
+    1: package com.imaginamos.usuariofinal.taxisya.comm;
+    2
+    3
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/src/main/java/com/imaginamos/usuariofinal/taxisya/comm/GcmBroadcastReceiver.java:
+    1: package com.imaginamos.usuariofinal.taxisya.comm;
+    2
+    3  import android.app.Activity;
+    .
+    9
+   10  import com.imaginamos.usuariofinal.taxisya.BuildConfig;
+   11: import com.imaginamos.usuariofinal.taxisya.comm.GcmIntentServices;
+   12
+   13  public class GcmBroadcastReceiver extends WakefulBroadcastReceiver {
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/src/main/java/com/imaginamos/usuariofinal/taxisya/comm/GcmIntentServices.java:
+    1: package com.imaginamos.usuariofinal.taxisya.comm;
+    2
+    3  import org.json.JSONObject;
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/src/main/java/com/imaginamos/usuariofinal/taxisya/comm/GooglePushNotification.java:
+    1: package com.imaginamos.usuariofinal.taxisya.comm;
+    2
+    3  import java.io.IOException;
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/src/main/java/com/imaginamos/usuariofinal/taxisya/comm/MiddleConnect.java:
+    1: package com.imaginamos.usuariofinal.taxisya.comm;
+    2
+    3  import org.json.JSONException;
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/src/main/java/com/imaginamos/usuariofinal/taxisya/comm/NetworkChangeReceiver.java:
+    1: package com.imaginamos.usuariofinal.taxisya.comm;
+    2
+    3  import android.content.BroadcastReceiver;
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/src/main/java/com/imaginamos/usuariofinal/taxisya/comm/NewAddressActivity.java:
+    1: package com.imaginamos.usuariofinal.taxisya.comm;
+    2
+    3  import android.app.Activity;
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/src/main/java/com/imaginamos/usuariofinal/taxisya/comm/Preferencias.java:
+    1: package com.imaginamos.usuariofinal.taxisya.comm;
+    2
+    3  import android.content.Context;
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/src/main/java/com/imaginamos/usuariofinal/taxisya/io/ApiConstants.java:
+   12
+   13      // produccion
+   14:     public static final String BASE_URL = "http://www.taxisya.co/public";
+   15:     public static final String BASE_NODE = "http://www.taxisya.co:3700/";
+   16
+   17      // desarrollo
+   18:     //public static final String BASE_URL = "http://www.taxisya.co/dev/public";
+   19:     //public static final String BASE_NODE = "http://www.taxisya.co:3701/";
+   20
+   21
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/src/main/java/com/imaginamos/usuariofinal/taxisya/items/AgendadoView.java:
+    7  import com.imaginamos.usuariofinal.taxisya.activities.EndAgendamientoActivity;
+    8  import com.imaginamos.usuariofinal.taxisya.models.Conf;
+    9: import com.imaginamos.usuariofinal.taxisya.comm.MiddleConnect;
+   10  import com.imaginamos.usuariofinal.taxisya.utils.Utils;
+   11  import com.imaginamos.usuariofinal.taxisya.R;
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/src/main/java/com/imaginamos/usuariofinal/taxisya/items/DayView.java:
+    6  import com.imaginamos.usuariofinal.taxisya.activities.HistorialActivity;
+    7  import com.imaginamos.usuariofinal.taxisya.models.Conf;
+    8: import com.imaginamos.usuariofinal.taxisya.comm.MiddleConnect;
+    9  import com.imaginamos.usuariofinal.taxisya.utils.Utils;
+   10  import com.imaginamos.usuariofinal.taxisya.R;
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/src/main/java/com/imaginamos/usuariofinal/taxisya/items/HistoricoView.java:
+   14  import com.imaginamos.usuariofinal.taxisya.activities.ReclamoActivity;
+   15  import com.imaginamos.usuariofinal.taxisya.models.Historico;
+   16: import com.imaginamos.usuariofinal.taxisya.comm.Connect;
+   17  import com.imaginamos.usuariofinal.taxisya.R;
+   18  import com.nostra13.universalimageloader.core.ImageLoader;
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/src/main/res/menu/menu_new_address.xml:
+    2      xmlns:app="http://schemas.android.com/apk/res-auto"
+    3      xmlns:tools="http://schemas.android.com/tools"
+    4:     tools:context="com.imaginamos.usuariofinal.taxisya.comm.NewAddressActivity">
+    5      <item android:id="@+id/action_settings" android:title="@string/action_settings"
+    6          android:orderInCategory="100" app:showAsAction="never" />
+
+448 matches across 40 files
+
+
+Searching 1018 files for "taxisya.co"
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/.gradle/2.10/taskArtifacts/taskArtifacts.bin:
+    <binary>
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/.gradle/2.10/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin:
+    <binary>
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/.gradle/2.10/tasks/_app_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin:
+    <binary>
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/.gradle/2.2.1/taskArtifacts/taskArtifacts.bin:
+    <binary>
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/build.gradle:
+   37  //            buildConfigField 'String', "HOST", '"45.55.189.117/taxisya"'
+   38  //            buildConfigField 'String', "HOST", '"104.237.131.48"'
+   39:             buildConfigField 'String', "HOST", '"www.taxisya.co/dev"'
+   40
+   41          }
+   ..
+   53              buildConfigField "boolean", "USE_CRASHLYTICS", "true"
+   54  //            buildConfigField 'String', "HOST", '"192.237.188.107"'
+   55:             buildConfigField 'String', "HOST", '"www.taxisya.co"'
+   56
+   57              applicationVariants.all { variant ->
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/build/generated/source/buildConfig/androidTest/debug/com/imaginamos/usuariofinal/taxisya/test/BuildConfig.java:
+   12    public static final String VERSION_NAME = "5.1";
+   13    // Fields from build type: debug
+   14:   public static final String HOST = "www.taxisya.co/dev";
+   15    public static final boolean USE_CRASHLYTICS = true;
+   16    public static final boolean USE_PUSH = true;
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/build/generated/source/buildConfig/debug/com/imaginamos/usuariofinal/taxisya/BuildConfig.java:
+   12    public static final String VERSION_NAME = "5.1";
+   13    // Fields from build type: debug
+   14:   public static final String HOST = "www.taxisya.co/dev";
+   15    public static final boolean USE_CRASHLYTICS = true;
+   16    public static final boolean USE_PUSH = true;
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/build/intermediates/bundles/debug/instant-run/AndroidManifest.xml:
+  134
+  135          <receiver
+  136:             android:name="com.imaginamos.usuariofinal.taxisya.comm.GcmBroadcastReceiver"
+  137              android:permission="com.google.android.c2dm.permission.SEND" >
+  138              <intent-filter>
+  ...
+  143          </receiver>
+  144
+  145:         <service android:name="com.imaginamos.usuariofinal.taxisya.comm.GcmIntentServices" />
+  146
+  147          <activity
+  ...
+  171          </activity>
+  172          <activity
+  173:             android:name="com.imaginamos.usuariofinal.taxisya.comm.NewAddressActivity"
+  174              android:label="@string/title_activity_new_address"
+  175              android:screenOrientation="portrait"
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:
+  133
+  134          <receiver
+  135:             android:name="com.imaginamos.usuariofinal.taxisya.comm.GcmBroadcastReceiver"
+  136              android:permission="com.google.android.c2dm.permission.SEND" >
+  137              <intent-filter>
+  ...
+  142          </receiver>
+  143
+  144:         <service android:name="com.imaginamos.usuariofinal.taxisya.comm.GcmIntentServices" />
+  145
+  146          <activity
+  ...
+  170          </activity>
+  171          <activity
+  172:             android:name="com.imaginamos.usuariofinal.taxisya.comm.NewAddressActivity"
+  173              android:label="@string/title_activity_new_address"
+  174              android:screenOrientation="portrait"
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/build/intermediates/res/merged/debug/menu/menu_new_address.xml:
+    2      xmlns:app="http://schemas.android.com/apk/res-auto"
+    3      xmlns:tools="http://schemas.android.com/tools"
+    4:     tools:context="com.imaginamos.usuariofinal.taxisya.comm.NewAddressActivity">
+    5      <item android:id="@+id/action_settings" android:title="@string/action_settings"
+    6          android:orderInCategory="100" app:showAsAction="never" />
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex:
+    <binary>
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/build/outputs/logs/manifest-merger-debug-report.txt:
+  453  	android:name
+  454  		ADDED from /Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/src/main/AndroidManifest.xml:129:13-56
+  455: receiver#com.imaginamos.usuariofinal.taxisya.comm.GcmBroadcastReceiver
+  456  ADDED from /Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/src/main/AndroidManifest.xml:134:9-142:20
+  457  	android:permission
+  ...
+  469  	android:name
+  470  		ADDED from /Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/src/main/AndroidManifest.xml:140:27-77
+  471: service#com.imaginamos.usuariofinal.taxisya.comm.GcmIntentServices
+  472  ADDED from /Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/src/main/AndroidManifest.xml:144:9-59
+  473  	android:name
+  ...
+  511  	android:name
+  512  		ADDED from /Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/src/main/AndroidManifest.xml:167:13-57
+  513: activity#com.imaginamos.usuariofinal.taxisya.comm.NewAddressActivity
+  514  ADDED from /Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/src/main/AndroidManifest.xml:171:9-176:20
+  515  	android:screenOrientation
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/src/main/java/com/imaginamos/taxisya/activities/MapaActivitys.java:
+  100  import com.imaginamos.usuariofinal.taxisya.activities.RegistroActivity;
+  101  import com.imaginamos.usuariofinal.taxisya.adapter.BDAdapter;
+  102: import com.imaginamos.usuariofinal.taxisya.comm.Preferencias;
+  103  import com.imaginamos.usuariofinal.taxisya.dialogs.Dialogos;
+  104  import com.imaginamos.usuariofinal.taxisya.utils.Actions;
+  105  import com.imaginamos.usuariofinal.taxisya.models.Conf;
+  106: import com.imaginamos.usuariofinal.taxisya.comm.Connectivity;
+  107: import com.imaginamos.usuariofinal.taxisya.comm.MiddleConnect;
+  108: import com.imaginamos.usuariofinal.taxisya.comm.NewAddressActivity;
+  109  import com.imaginamos.usuariofinal.taxisya.models.Target;
+  110  import com.imaginamos.usuariofinal.taxisya.models.Error;
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/src/main/java/com/imaginamos/usuariofinal/taxisya/activities/AgendarActivity.java:
+   53  import com.imaginamos.usuariofinal.taxisya.utils.Actions;
+   54  import com.imaginamos.usuariofinal.taxisya.models.Conf;
+   55: import com.imaginamos.usuariofinal.taxisya.comm.MiddleConnect;
+   56  import com.imaginamos.usuariofinal.taxisya.utils.Utils;
+   57  import com.imaginamos.usuariofinal.taxisya.R;
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/src/main/java/com/imaginamos/usuariofinal/taxisya/activities/CalificarActivity.java:
+   19  import com.imaginamos.taxisya.activities.MapaActivitys;
+   20  import com.imaginamos.usuariofinal.taxisya.adapter.BDAdapter;
+   21: import com.imaginamos.usuariofinal.taxisya.comm.MiddleConnect;
+   22: import com.imaginamos.usuariofinal.taxisya.comm.Preferencias;
+   23  import com.imaginamos.usuariofinal.taxisya.io.ApiAdapter;
+   24  import com.imaginamos.usuariofinal.taxisya.io.ServiceResponse;
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/src/main/java/com/imaginamos/usuariofinal/taxisya/activities/ConfirmacionActivity.java:
+   38  import com.imaginamos.usuariofinal.taxisya.utils.Actions;
+   39  import com.imaginamos.usuariofinal.taxisya.models.Conf;
+   40: import com.imaginamos.usuariofinal.taxisya.comm.Connect;
+   41: import com.imaginamos.usuariofinal.taxisya.comm.MiddleConnect;
+   42  import com.imaginamos.usuariofinal.taxisya.utils.Utils;
+   43  import com.imaginamos.usuariofinal.taxisya.R;
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/src/main/java/com/imaginamos/usuariofinal/taxisya/activities/EndAgendamientoActivity.java:
+   16
+   17  import com.imaginamos.usuariofinal.taxisya.models.Conf;
+   18: import com.imaginamos.usuariofinal.taxisya.comm.MiddleConnect;
+   19  import com.imaginamos.usuariofinal.taxisya.utils.Utils;
+   20  import com.imaginamos.usuariofinal.taxisya.R;
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/src/main/java/com/imaginamos/usuariofinal/taxisya/activities/HistorialActivity.java:
+   35  import com.imaginamos.usuariofinal.taxisya.utils.Actions;
+   36  import com.imaginamos.usuariofinal.taxisya.models.Conf;
+   37: import com.imaginamos.usuariofinal.taxisya.comm.MiddleConnect;
+   38  import com.imaginamos.usuariofinal.taxisya.utils.Utils;
+   39  import com.imaginamos.usuariofinal.taxisya.R;
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/src/main/java/com/imaginamos/usuariofinal/taxisya/activities/HomeActivity.java:
+   46  import com.imaginamos.taxisya.activities.MapaActivitys;
+   47  import com.imaginamos.usuariofinal.taxisya.BuildConfig;
+   48: import com.imaginamos.usuariofinal.taxisya.comm.Preferencias;
+   49  import com.imaginamos.usuariofinal.taxisya.dialogs.Dialogos;
+   50  import com.imaginamos.usuariofinal.taxisya.utils.Actions;
+   51  import com.imaginamos.usuariofinal.taxisya.models.Conf;
+   52: import com.imaginamos.usuariofinal.taxisya.comm.Connectivity;
+   53: import com.imaginamos.usuariofinal.taxisya.comm.GooglePushNotification;
+   54: import com.imaginamos.usuariofinal.taxisya.comm.MiddleConnect;
+   55  import com.imaginamos.usuariofinal.taxisya.models.Target;
+   56  import com.imaginamos.usuariofinal.taxisya.utils.Utils;
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/src/main/java/com/imaginamos/usuariofinal/taxisya/activities/LoginActivity.java:
+   18
+   19  import com.imaginamos.usuariofinal.taxisya.models.Conf;
+   20: import com.imaginamos.usuariofinal.taxisya.comm.MiddleConnect;
+   21  import com.imaginamos.usuariofinal.taxisya.utils.Utils;
+   22  import com.imaginamos.usuariofinal.taxisya.R;
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/src/main/java/com/imaginamos/usuariofinal/taxisya/activities/MisAgendamientosActivity.java:
+   12  import com.imaginamos.usuariofinal.taxisya.utils.Actions;
+   13  import com.imaginamos.usuariofinal.taxisya.models.Conf;
+   14: import com.imaginamos.usuariofinal.taxisya.comm.MiddleConnect;
+   15  import com.imaginamos.usuariofinal.taxisya.utils.Utils;
+   16  import com.imaginamos.usuariofinal.taxisya.R;
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/src/main/java/com/imaginamos/usuariofinal/taxisya/activities/PerfilActivity.java:
+   24  import com.imaginamos.usuariofinal.taxisya.utils.Actions;
+   25  import com.imaginamos.usuariofinal.taxisya.models.Conf;
+   26: import com.imaginamos.usuariofinal.taxisya.comm.MiddleConnect;
+   27  import com.imaginamos.usuariofinal.taxisya.models.Target;
+   28  import com.imaginamos.usuariofinal.taxisya.utils.Utils;
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/src/main/java/com/imaginamos/usuariofinal/taxisya/activities/ReclamoActivity.java:
+    5  import com.imaginamos.usuariofinal.taxisya.utils.Actions;
+    6  import com.imaginamos.usuariofinal.taxisya.models.Conf;
+    7: import com.imaginamos.usuariofinal.taxisya.comm.MiddleConnect;
+    8  import com.imaginamos.usuariofinal.taxisya.R;
+    9  import com.loopj.android.http.AsyncHttpResponseHandler;
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/src/main/java/com/imaginamos/usuariofinal/taxisya/activities/RegistroActivity.java:
+   18  import com.imaginamos.taxisya.activities.MapaActivitys;
+   19  import com.imaginamos.usuariofinal.taxisya.models.Conf;
+   20: import com.imaginamos.usuariofinal.taxisya.comm.MiddleConnect;
+   21  import com.imaginamos.usuariofinal.taxisya.models.Target;
+   22  import com.imaginamos.usuariofinal.taxisya.utils.Utils;
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/src/main/java/com/imaginamos/usuariofinal/taxisya/activities/ResetPassActivity.java:
+   21  import android.widget.Toast;
+   22
+   23: import com.imaginamos.usuariofinal.taxisya.comm.MiddleConnect;
+   24  import com.imaginamos.usuariofinal.taxisya.utils.Utils;
+   25  import com.imaginamos.usuariofinal.taxisya.R;
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/src/main/java/com/imaginamos/usuariofinal/taxisya/activities/SolicitandoActivity.java:
+   36  import com.imaginamos.usuariofinal.taxisya.utils.Actions;
+   37  import com.imaginamos.usuariofinal.taxisya.models.Conf;
+   38: import com.imaginamos.usuariofinal.taxisya.comm.Connectivity;
+   39  import com.imaginamos.usuariofinal.taxisya.models.Error;
+   40: import com.imaginamos.usuariofinal.taxisya.comm.MiddleConnect;
+   41  import com.imaginamos.usuariofinal.taxisya.R;
+   42  import com.loopj.android.http.AsyncHttpResponseHandler;
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/src/main/java/com/imaginamos/usuariofinal/taxisya/comm/Connect.java:
+    1: package com.imaginamos.usuariofinal.taxisya.comm;
+    2
+    3  import org.apache.http.entity.ByteArrayEntity;
+    .
+   26
+   27  	  // produccion
+   28: 	  public static final String BASE_URL_IP = "http://www.taxisya.co/";
+   29
+   30  	  // desarrollo
+   31: 	  //public static final String BASE_URL_IP = "http://www.taxisya.co/dev/";
+   32
+   33
+   ..
+   39
+   40  	  // produccion
+   41: 	  public static final String BASE_URL = "http://www.taxisya.co/public/";
+   42: 	  public static final String BASE_NODE = "http://www.taxisya.co:3700/";
+   43
+   44  	  // desarrollo
+   45:   	  //public static final String BASE_URL = "http://www.taxisya.co/dev/public/";
+   46: 	  //public static final String BASE_NODE = "http://www.taxisya.co:3701/";
+   47
+   48
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/src/main/java/com/imaginamos/usuariofinal/taxisya/comm/Connectivity.java:
+    1: package com.imaginamos.usuariofinal.taxisya.comm;
+    2
+    3
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/src/main/java/com/imaginamos/usuariofinal/taxisya/comm/GcmBroadcastReceiver.java:
+    1: package com.imaginamos.usuariofinal.taxisya.comm;
+    2
+    3  import android.app.Activity;
+    .
+    9
+   10  import com.imaginamos.usuariofinal.taxisya.BuildConfig;
+   11: import com.imaginamos.usuariofinal.taxisya.comm.GcmIntentServices;
+   12
+   13  public class GcmBroadcastReceiver extends WakefulBroadcastReceiver {
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/src/main/java/com/imaginamos/usuariofinal/taxisya/comm/GcmIntentServices.java:
+    1: package com.imaginamos.usuariofinal.taxisya.comm;
+    2
+    3  import org.json.JSONObject;
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/src/main/java/com/imaginamos/usuariofinal/taxisya/comm/GooglePushNotification.java:
+    1: package com.imaginamos.usuariofinal.taxisya.comm;
+    2
+    3  import java.io.IOException;
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/src/main/java/com/imaginamos/usuariofinal/taxisya/comm/MiddleConnect.java:
+    1: package com.imaginamos.usuariofinal.taxisya.comm;
+    2
+    3  import org.json.JSONException;
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/src/main/java/com/imaginamos/usuariofinal/taxisya/comm/NetworkChangeReceiver.java:
+    1: package com.imaginamos.usuariofinal.taxisya.comm;
+    2
+    3  import android.content.BroadcastReceiver;
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/src/main/java/com/imaginamos/usuariofinal/taxisya/comm/NewAddressActivity.java:
+    1: package com.imaginamos.usuariofinal.taxisya.comm;
+    2
+    3  import android.app.Activity;
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/src/main/java/com/imaginamos/usuariofinal/taxisya/comm/Preferencias.java:
+    1: package com.imaginamos.usuariofinal.taxisya.comm;
+    2
+    3  import android.content.Context;
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/src/main/java/com/imaginamos/usuariofinal/taxisya/io/ApiConstants.java:
+   12
+   13      // produccion
+   14:     public static final String BASE_URL = "http://www.taxisya.co/public";
+   15:     public static final String BASE_NODE = "http://www.taxisya.co:3700/";
+   16
+   17      // desarrollo
+   18:     //public static final String BASE_URL = "http://www.taxisya.co/dev/public";
+   19:     //public static final String BASE_NODE = "http://www.taxisya.co:3701/";
+   20
+   21
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/src/main/java/com/imaginamos/usuariofinal/taxisya/items/AgendadoView.java:
+    7  import com.imaginamos.usuariofinal.taxisya.activities.EndAgendamientoActivity;
+    8  import com.imaginamos.usuariofinal.taxisya.models.Conf;
+    9: import com.imaginamos.usuariofinal.taxisya.comm.MiddleConnect;
+   10  import com.imaginamos.usuariofinal.taxisya.utils.Utils;
+   11  import com.imaginamos.usuariofinal.taxisya.R;
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/src/main/java/com/imaginamos/usuariofinal/taxisya/items/DayView.java:
+    6  import com.imaginamos.usuariofinal.taxisya.activities.HistorialActivity;
+    7  import com.imaginamos.usuariofinal.taxisya.models.Conf;
+    8: import com.imaginamos.usuariofinal.taxisya.comm.MiddleConnect;
+    9  import com.imaginamos.usuariofinal.taxisya.utils.Utils;
+   10  import com.imaginamos.usuariofinal.taxisya.R;
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/src/main/java/com/imaginamos/usuariofinal/taxisya/items/HistoricoView.java:
+   14  import com.imaginamos.usuariofinal.taxisya.activities.ReclamoActivity;
+   15  import com.imaginamos.usuariofinal.taxisya.models.Historico;
+   16: import com.imaginamos.usuariofinal.taxisya.comm.Connect;
+   17  import com.imaginamos.usuariofinal.taxisya.R;
+   18  import com.nostra13.universalimageloader.core.ImageLoader;
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/src/main/res/menu/menu_new_address.xml:
+    2      xmlns:app="http://schemas.android.com/apk/res-auto"
+    3      xmlns:tools="http://schemas.android.com/tools"
+    4:     tools:context="com.imaginamos.usuariofinal.taxisya.comm.NewAddressActivity">
+    5      <item android:id="@+id/action_settings" android:title="@string/action_settings"
+    6          android:orderInCategory="100" app:showAsAction="never" />
+
+448 matches across 40 files
+
+
+Searching 1018 files for "www.taxisya.co"
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/.gradle/2.10/taskArtifacts/taskArtifacts.bin:
+    <binary>
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/.gradle/2.2.1/taskArtifacts/taskArtifacts.bin:
+    <binary>
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/build.gradle:
+   37  //            buildConfigField 'String', "HOST", '"45.55.189.117/taxisya"'
+   38  //            buildConfigField 'String', "HOST", '"104.237.131.48"'
+   39:             buildConfigField 'String', "HOST", '"www.taxisya.co/dev"'
+   40
+   41          }
+   ..
+   53              buildConfigField "boolean", "USE_CRASHLYTICS", "true"
+   54  //            buildConfigField 'String', "HOST", '"192.237.188.107"'
+   55:             buildConfigField 'String', "HOST", '"www.taxisya.co"'
+   56
+   57              applicationVariants.all { variant ->
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/build/generated/source/buildConfig/androidTest/debug/com/imaginamos/usuariofinal/taxisya/test/BuildConfig.java:
+   12    public static final String VERSION_NAME = "5.1";
+   13    // Fields from build type: debug
+   14:   public static final String HOST = "www.taxisya.co/dev";
+   15    public static final boolean USE_CRASHLYTICS = true;
+   16    public static final boolean USE_PUSH = true;
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/build/generated/source/buildConfig/debug/com/imaginamos/usuariofinal/taxisya/BuildConfig.java:
+   12    public static final String VERSION_NAME = "5.1";
+   13    // Fields from build type: debug
+   14:   public static final String HOST = "www.taxisya.co/dev";
+   15    public static final boolean USE_CRASHLYTICS = true;
+   16    public static final boolean USE_PUSH = true;
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex:
+    <binary>
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/src/main/java/com/imaginamos/usuariofinal/taxisya/comm/Connect.java:
+   26
+   27  	  // produccion
+   28: 	  public static final String BASE_URL_IP = "http://www.taxisya.co/";
+   29
+   30  	  // desarrollo
+   31: 	  //public static final String BASE_URL_IP = "http://www.taxisya.co/dev/";
+   32
+   33
+   ..
+   39
+   40  	  // produccion
+   41: 	  public static final String BASE_URL = "http://www.taxisya.co/public/";
+   42: 	  public static final String BASE_NODE = "http://www.taxisya.co:3700/";
+   43
+   44  	  // desarrollo
+   45:   	  //public static final String BASE_URL = "http://www.taxisya.co/dev/public/";
+   46: 	  //public static final String BASE_NODE = "http://www.taxisya.co:3701/";
+   47
+   48
+
+/Users/leo/code/imaginamos/projects/TaxisYa/taxisyausuarios-android/app/src/main/java/com/imaginamos/usuariofinal/taxisya/io/ApiConstants.java:
+   12
+   13      // produccion
+   14:     public static final String BASE_URL = "http://www.taxisya.co/public";
+   15:     public static final String BASE_NODE = "http://www.taxisya.co:3700/";
+   16
+   17      // desarrollo
+   18:     //public static final String BASE_URL = "http://www.taxisya.co/dev/public";
+   19:     //public static final String BASE_NODE = "http://www.taxisya.co:3701/";
+   20
+   21
+
+39 matches across 8 files

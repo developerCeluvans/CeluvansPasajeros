@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "25029586074",
+    "firebase_url": "https://real-transportadora.firebaseio.com",
+    "project_id": "real-transportadora",
+    "storage_bucket": "real-transportadora.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25029586074:android:83d9666c92a51689",
+        "android_client_info": {
+          "package_name": "com.real.usuario"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25029586074-4hohfnem44qs695s29c8934qovrtp0gh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7Zg6k7Q2FlEKHfW73hNZtqo421r2Na2U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25029586074:android:b02660a2302440b2",
+        "android_client_info": {
+          "package_name": "co.taxisya.realtransportadora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25029586074-4hohfnem44qs695s29c8934qovrtp0gh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7Zg6k7Q2FlEKHfW73hNZtqo421r2Na2U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

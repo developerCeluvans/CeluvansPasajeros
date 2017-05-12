@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "254682418821",
+    "firebase_url": "https://taxis-ya-usuario-android.firebaseio.com",
+    "project_id": "taxis-ya-usuario-android",
+    "storage_bucket": "taxis-ya-usuario-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254682418821:android:a62d955d84b45b78",
+        "android_client_info": {
+          "package_name": "co.taxisya.usuarioandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254682418821-1oml2lh8esei2hmgqsmmfq50r0psfj4h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.taxisya.usuarioandroid",
+            "certificate_hash": "4F163B0B68B6E5A0D11C195215F70C552477CF43"
+          }
+        },
+        {
+          "client_id": "254682418821-03va9v3d38uuicr2027ljlbeg8d561pq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjimktXSUrxSBHRq14RnO6oHemm2nadsE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254682418821-03va9v3d38uuicr2027ljlbeg8d561pq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

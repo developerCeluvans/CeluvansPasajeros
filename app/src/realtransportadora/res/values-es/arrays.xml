@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="opciones">
+		<item>Calle</item>
+		<item>Carrera</item>
+		<item>Transversal</item>
+		<item>Diagonal</item>
+		<item>Avenida</item>
+	</string-array>
+	<array name="entries">
+	    <item>@drawable/reclamos_normal</item>
+		<item>@drawable/pedir_over</item>
+		<item>@drawable/agendar_uno</item>
+		<item>@drawable/perfil_normal</item>
+	</array>
+	<array name="names">
+	    <item>The cat</item>
+	    <item>The hippo</item>
+	    <item>The monkey</item>
+	    <item>The monkey2</item>
+	</array>
+</resources>

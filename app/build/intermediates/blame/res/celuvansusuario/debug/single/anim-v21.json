@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/build/intermediates/res/merged/celuvansusuario/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/f2eefab6a579fab120ae854b6a0ce13f97464aed/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/build/intermediates/res/merged/celuvansusuario/debug/anim-v21/design_appbar_state_list_animator.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/f2eefab6a579fab120ae854b6a0ce13f97464aed/output/res/anim-v21/design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/build/intermediates/res/merged/celuvansusuario/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/f2eefab6a579fab120ae854b6a0ce13f97464aed/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    }
+]

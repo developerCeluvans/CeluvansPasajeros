@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="48dp"
+            android:background="@drawable/borde_superior">
+
+            <ImageView
+                android:id="@+id/banner_arriba"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentTop="true"
+                android:adjustViewBounds="true"
+                android:background="@drawable/borde_superior" />
+
+            <ImageView
+                android:id="@+id/bt_back"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentTop="true"
+                android:adjustViewBounds="true"
+                android:src="@drawable/btn_back" />
+
+            <ImageView
+                android:id="@+id/imageView3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentTop="true"
+                android:padding="10dp"
+                android:src="@drawable/logo" />
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentRight="true"
+                android:scaleType="fitXY"
+                android:src="@drawable/linea_gris" />
+
+            <Button
+                android:id="@+id/btnMisAgendamientos"
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:layout_alignParentRight="true"
+                android:layout_gravity="center_horizontal|bottom"
+                android:layout_marginRight="6dp"
+                android:adjustViewBounds="true"
+                android:background="@android:color/transparent"
+                android:paddingBottom="1dp"
+                android:text="@string/text_mis_agendamientos"
+                android:textColor="@color/gray_text"
+                android:textSize="12sp" />
+
+        </RelativeLayout>
+
+        <Button
+            android:id="@+id/btnVerAgendamientos"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:layout_gravity="center_horizontal|bottom"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/btn_request"
+            android:text="Ver mis agendamientos"
+            android:textColor="@color/white"
+            android:visibility="gone" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="@string/texto_maximo_24_horas"
+            android:textColor="@color/text_gray"
+            android:textSize="18dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:text="@string/texto_fecha_agendamiento"
+            android:textColor="@color/text_orange"
+            android:textSize="15dp" />
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/white"
+            android:orientation="horizontal"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp">
+
+            <TextView
+                android:id="@+id/fechayhora"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_weight=".5"
+                android:paddingBottom="5dp"
+                android:paddingTop="5dp"
+                android:textSize="13sp" />
+
+            <TextView
+                android:id="@+id/hora"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_weight=".5"
+                android:paddingBottom="5dp"
+                android:paddingTop="5dp"
+                android:textSize="13sp" />
+
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:text="@string/texto_motivo_agendamiento"
+            android:textColor="@color/text_orange"
+            android:textSize="15dp" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:id="@+id/aeropuerto_uno"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.5"
+                    android:adjustViewBounds="true"
+                    android:padding="2dp"
+                    android:src="@drawable/aeropuerto" />
+
+                <ImageView
+                    android:id="@+id/fuera_bogota"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.5"
+                    android:adjustViewBounds="true"
+                    android:padding="2dp"
+                    android:src="@drawable/fuerabog" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:id="@+id/servicio_horas"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.5"
+                    android:padding="2dp"
+                    android:src="@drawable/porhoras" />
+
+                <ImageView
+                    android:id="@+id/servicio_mensajeria"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.5"
+                    android:padding="2dp"
+                    android:src="@drawable/mensajeria" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:text="@string/texto_lugar_agendamiento"
+            android:textColor="@color/text_orange"
+            android:textSize="15dp" />
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:paddingRight="6dp"
+            android:paddingTop="3dp">
+
+            <!--<LinearLayout-->
+            <!--android:layout_width="fill_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:orientation="horizontal"-->
+            <!--android:paddingLeft="10dp"-->
+            <!--android:paddingRight="10dp">-->
+
+            <!--<Spinner-->
+            <!--android:id="@+id/spinner"-->
+            <!--android:layout_width="0dp"-->
+            <!--android:layout_height="46dp"-->
+            <!--android:layout_weight="0.38"-->
+            <!--android:drawSelectorOnTop="true"-->
+            <!--android:prompt="@string/selecciona" />-->
+
+            <!--<EditText-->
+            <!--android:id="@+id/direccion_uno"-->
+            <!--android:layout_width="0dp"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_weight="0.12"-->
+            <!--android:hint="@string/hint_dir_uno"-->
+            <!--android:textColor="#585858"-->
+            <!--android:textSize="15sp" />-->
+
+            <!--<TextView-->
+            <!--android:id="@+id/signo_numero"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_weight=".01"-->
+            <!--android:text="#"-->
+            <!--android:textColor="#A4A4A4" />-->
+
+            <!--<EditText-->
+            <!--android:id="@+id/direccion_dos"-->
+            <!--android:layout_width="0dp"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_weight="0.10"-->
+            <!--android:hint="@string/hint_dir_2"-->
+            <!--android:textColor="#585858"-->
+            <!--android:textSize="15sp" />-->
+
+            <!--<TextView-->
+            <!--android:id="@+id/guion_separador"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_weight=".01"-->
+            <!--android:text="-"-->
+            <!--android:textColor="#A4A4A4" />-->
+            <!---->
+            <!--<EditText-->
+            <!--android:id="@+id/direccion_tres"-->
+            <!--android:layout_width="0dp"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_weight="0.08"-->
+            <!--android:hint="@string/hint_dir_3"-->
+            <!--android:inputType="number"-->
+            <!--android:textColor="#585858"-->
+            <!--android:textSize="15sp" />-->
+
+            <!--</LinearLayout>-->
+
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/btn_pick_up_address"
+                    android:layout_width="50dp"
+                    android:layout_height="45dp"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:background="@drawable/btn_request"
+                    android:drawableLeft="@drawable/lugar" />
+
+                <EditText
+                    android:id="@+id/text_address"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:focusable="false"
+                    android:enabled="false"
+                    android:hint="@string/hint_address"
+                    android:inputType="textPostalAddress"
+                    android:textColor="#585858"
+                    android:textSize="15sp" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <EditText
+                    android:id="@+id/observaciones"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginStart="10dp"
+                    android:layout_weight=".5"
+                    android:hint="@string/hint_apto"
+                    android:inputType="textPostalAddress"
+                    android:textSize="15sp" />
+
+
+                <EditText
+                    android:id="@+id/barrio"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight=".5"
+                    android:hint="@string/hint_barrio"
+                    android:inputType="textPostalAddress"
+                    android:visibility="gone" />
+
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:id="@+id/layout_scheduled_destination"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:visibility="invisible">
+
+                <Button
+                    android:id="@+id/btn_drop_off_address"
+                    android:layout_width="50dp"
+                    android:layout_height="45dp"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:background="@drawable/btn_request"
+                    android:visibility="gone"
+                    android:drawableLeft="@drawable/lugar" />
+
+                <EditText
+                    android:id="@+id/text_desti"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginStart="10dp"
+                    android:hint="@string/hint_destino"
+                    android:inputType="textPostalAddress"
+                    android:textColor="#585858"
+                    android:textSize="15sp" />
+
+
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/btnAgendarServicio"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:layout_gravity="center_horizontal|bottom"
+
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+
+            android:background="@drawable/btn_request"
+            android:text="@string/text_agendar_servicio"
+            android:textColor="@color/white" />
+
+    </LinearLayout>
+
+</ScrollView>

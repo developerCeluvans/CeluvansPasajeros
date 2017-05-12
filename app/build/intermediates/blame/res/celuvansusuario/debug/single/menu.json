@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/build/intermediates/res/merged/celuvansusuario/debug/menu/reset_pass.xml",
+        "source": "/Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/res/menu/reset_pass.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/build/intermediates/res/merged/celuvansusuario/debug/menu/menu_map_new_address.xml",
+        "source": "/Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/res/menu/menu_map_new_address.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/build/intermediates/res/merged/celuvansusuario/debug/menu/main.xml",
+        "source": "/Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/build/intermediates/res/merged/celuvansusuario/debug/menu/menu_my_addresses.xml",
+        "source": "/Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/res/menu/menu_my_addresses.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/build/intermediates/res/merged/celuvansusuario/debug/menu/menu_new_address.xml",
+        "source": "/Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/res/menu/menu_new_address.xml"
+    }
+]

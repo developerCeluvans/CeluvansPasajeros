@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/libs/gcm.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f0e7f01db9f6cbc6e5bf47c10c7d74fd7a7052d0">
+        <dex dex="/Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/build/intermediates/pre-dexed/celuvansusuario/debug/gcm_f0b4edcfba79e780b1093c1c41ee4eb396a60008.jar" />
+    </item>
+
+</items>

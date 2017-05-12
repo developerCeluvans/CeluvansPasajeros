@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fontdirmap">10sp</dimen>
+    <dimen name="fontdimservices">10sp</dimen>
+	<dimen name="dim_taco_w">300sp</dimen>
+	<dimen name="dim_taco_h">280sp</dimen>
+    <dimen name="ic_clear_margin">16dp</dimen>
+</resources>

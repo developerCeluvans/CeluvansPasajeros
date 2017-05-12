@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/border"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="48dp">
+
+        <ImageView
+            android:id="@+id/banner_arriba"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentTop="true"
+            android:adjustViewBounds="true"
+            android:contentDescription="@string/textimageview"
+            android:paddingBottom="5dp"
+            android:paddingTop="10dp"
+            android:src="@drawable/logo" />
+
+        <ImageView
+            android:id="@+id/btn_volver"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:adjustViewBounds="true"
+            android:contentDescription="@string/textimageview"
+            android:src="@drawable/btn_back" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#CCCCCC"
+        android:orientation="vertical"></LinearLayout>
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/border_bottom_g">
+
+        <LinearLayout
+            android:id="@+id/lay_regi"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="50sp"
+            android:background="@drawable/border_bottom_g"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginLeft="50sp"
+                android:layout_marginRight="50sp"
+                android:paddingBottom="20dp"
+                android:paddingTop="20dp"
+                android:text="@string/texto_tus_datos"
+                android:textSize="22dp" />
+
+            <EditText
+                android:id="@+id/editTxtNombre"
+                android:layout_width="match_parent"
+                android:layout_height="35sp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginLeft="10sp"
+                android:layout_marginRight="10sp"
+                android:background="@drawable/textfield_registro"
+                android:ems="10"
+                android:hint="@string/tu_nombre_y_apellido"
+                android:inputType="textPersonName"
+                android:paddingLeft="10sp"
+                android:textColorHint="#f57e5b"
+                android:textSize="15sp" />
+
+            <EditText
+                android:id="@+id/editTxtUsuario"
+                android:layout_width="match_parent"
+                android:layout_height="35sp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginLeft="10sp"
+                android:layout_marginRight="10sp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/textfield_registro"
+                android:clickable="false"
+                android:cursorVisible="false"
+                android:editable="false"
+                android:ems="10"
+                android:focusable="false"
+                android:hint="@string/tu_e_mail_correo_electr_nico_"
+                android:inputType="textPersonName"
+                android:paddingLeft="10sp"
+                android:textColorHint="#f57e5b"
+                android:textSize="15sp" />
+
+            <EditText
+                android:id="@+id/editTxtCelular"
+                android:layout_width="match_parent"
+                android:layout_height="35sp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginLeft="10sp"
+                android:layout_marginRight="10sp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/textfield_registro"
+                android:ems="10"
+                android:hint="@string/tu_n_mero_celular"
+                android:inputType="phone"
+                android:paddingLeft="10sp"
+                android:textColorHint="#f57e5b"
+                android:textSize="15sp" />
+
+            <EditText
+                android:id="@+id/editTxtContrasena"
+                android:layout_width="match_parent"
+                android:layout_height="35sp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginLeft="10sp"
+                android:layout_marginRight="10sp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/textfield_registro"
+                android:ems="10"
+                android:hint="@string/perfil_contrase_a"
+                android:inputType="textPassword"
+                android:paddingLeft="10sp"
+                android:textColorHint="#f57e5b"
+                android:textSize="15sp" />
+
+            <Button
+                android:id="@+id/btnActualizar"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/btn_request"
+                android:text="@string/texto_actualizar_datos"
+                android:textColor="@color/white"
+                android:visibility="visible" />
+
+            <Button
+                android:id="@+id/btnPayments"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/btn_request"
+                android:text="@string/texto_opciones_pago"
+                android:textColor="@color/white"
+                android:visibility="visible" />
+
+            <Button
+                android:id="@+id/btnClose"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/btn_gray"
+                android:text="@string/texto_cerrar_sesion"
+                android:textColor="@color/white"
+                android:visibility="visible" />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:map="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="bottom"
+    android:background="@android:color/white"
+    android:orientation="vertical">
+
+
+    <LinearLayout
+        android:id="@+id/navbar"
+        android:layout_width="fill_parent"
+        android:layout_height="49dp"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/navbar_shadow"
+        android:orientation="horizontal">
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="48dp">
+
+            <ImageView
+                android:id="@+id/banner_arriba"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentTop="true"
+                android:adjustViewBounds="true"
+                android:contentDescription="@string/app_name"
+                android:paddingBottom="5dp"
+                android:paddingTop="10dp"
+                android:src="@drawable/navbar_logo" />
+
+            <TextView
+                android:id="@+id/text_search"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:adjustViewBounds="true"
+                android:paddingBottom="5dp"
+                android:paddingTop="12dp"
+                android:text="Buscando..."
+                android:visibility="gone" />
+
+            <ImageView
+                android:id="@+id/btn_volver"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentTop="true"
+                android:adjustViewBounds="true"
+                android:contentDescription="@string/app_name"
+                android:src="@drawable/btn_back" />
+
+        </RelativeLayout>
+
+    </LinearLayout>
+
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <fragment
+            android:id="@+id/map"
+            class="com.google.android.gms.maps.SupportMapFragment"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:clickable="true"
+            map:cameraTargetLat="4.597317"
+            map:cameraTargetLng="-74.077098" />
+
+        <ImageView
+            android:id="@+id/ivMarker"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:contentDescription="@string/app_name"
+            android:src="@drawable/pointer" />
+
+    </FrameLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:background="@color/background_gray"
+        android:gravity="bottom"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/new_direccion"
+            android:layout_width="fill_parent"
+            android:layout_height="45dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="5dp"
+            android:background="#FFFFFF"
+            android:drawableLeft="@drawable/draw2left"
+            android:elevation="4dp"
+            android:gravity="center_vertical"
+            android:hint="@string/new_address_hint"
+            android:imeOptions="actionDone"
+            android:inputType="textImeMultiLine"
+            android:paddingLeft="4dp"
+            android:singleLine="true"
+            android:textColor="@color/edit_color" />
+
+        <EditText
+            android:id="@+id/new_nombre"
+            android:layout_width="fill_parent"
+            android:layout_height="45dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="5dp"
+            android:background="#FFFFFF"
+            android:drawableLeft="@drawable/draw1left"
+            android:elevation="4dp"
+            android:gravity="center_vertical"
+            android:hint="@string/new_name_hint"
+            android:imeOptions="actionDone"
+            android:inputType="textImeMultiLine"
+            android:paddingLeft="4dp"
+            android:singleLine="true"
+            android:textColor="@color/edit_color" />
+
+        <EditText
+            android:id="@+id/new_comentario"
+            android:layout_width="fill_parent"
+            android:layout_height="45dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="5dp"
+            android:background="#FFFFFF"
+            android:drawableLeft="@drawable/draw3left"
+            android:elevation="4dp"
+            android:gravity="center_vertical"
+            android:hint="@string/new_detail_hint"
+            android:imeOptions="actionDone"
+            android:inputType="textImeMultiLine"
+            android:paddingLeft="4dp"
+            android:singleLine="true"
+            android:textColor="@color/edit_color" />
+
+        <Button
+            android:id="@+id/btn_nueva_direccion"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:layout_gravity="center_horizontal|bottom"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="5dp"
+            android:background="@drawable/btn_n"
+            android:text="@string/btn_new_address"
+            android:textColor="@color/white" />
+
+
+    </LinearLayout>
+
+</LinearLayout>

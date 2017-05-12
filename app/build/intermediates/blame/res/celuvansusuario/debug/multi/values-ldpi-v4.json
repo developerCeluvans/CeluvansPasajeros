@@ -1,0 +1,83 @@
+[
+    {
+        "outputFile": "/Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/build/intermediates/incremental/mergeCeluvansusuarioDebugResources/merged.dir/values-ldpi-v4/values-ldpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 42,
+                    "endOffset": 93
+                },
+                "from": {
+                    "file": "/Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/res/values-ldpi/dimen.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 181,
+                        "endColumn": 39,
+                        "endOffset": 219
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 98,
+                    "endColumn": 42,
+                    "endOffset": 136
+                },
+                "from": {
+                    "file": "/Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/res/values-ldpi/dimen.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 141,
+                        "endColumn": 39,
+                        "endOffset": 179
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 141,
+                    "endColumn": 46,
+                    "endOffset": 183
+                },
+                "from": {
+                    "file": "/Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/res/values-ldpi/dimen.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 97,
+                        "endColumn": 46,
+                        "endOffset": 139
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 188,
+                    "endColumn": 41,
+                    "endOffset": 225
+                },
+                "from": {
+                    "file": "/Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/res/values-ldpi/dimen.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 41,
+                        "endOffset": 92
+                    }
+                }
+            }
+        ]
+    }
+]

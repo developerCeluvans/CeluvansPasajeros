@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">31737216690-c36gb7b5j0kehb4ido9hiki35a0ki7r3.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://celuvans-usuario.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">31737216690</string>
+    <string name="google_api_key" translatable="false">AIzaSyCwYyW0I1t53BL0DintKX2-lixh4rmGL78</string>
+    <string name="google_app_id" translatable="false">1:31737216690:android:03f1b3212acc5471</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCwYyW0I1t53BL0DintKX2-lixh4rmGL78</string>
+    <string name="google_storage_bucket" translatable="false">celuvans-usuario.appspot.com</string>
+</resources>

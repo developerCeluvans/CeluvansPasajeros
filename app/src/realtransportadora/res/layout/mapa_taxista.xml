@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/border"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="70sp"
+                android:background="@drawable/borde_superior">
+
+                <ImageView
+                    android:id="@+id/imageView1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentTop="true"
+                    android:layout_centerHorizontal="true"
+                    android:adjustViewBounds="false"
+                    android:contentDescription="@string/app_name"
+                    android:padding="10dp"
+                    android:src="@drawable/logo" />
+            </RelativeLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="#CCCCCC"
+                android:orientation="vertical"></LinearLayout>
+
+            <fragment
+                android:id="@+id/map"
+                class="com.google.android.gms.maps.MapFragment"
+                android:layout_width="fill_parent"
+                android:layout_height="0sp"
+                android:layout_weight="0.62"
+                android:clickable="true" />
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="50dp"
+                android:background="@android:color/transparent"
+                android:orientation="horizontal"></LinearLayout>
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/btnVerTaxista"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:layout_gravity="center_horizontal|bottom"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/btn_request"
+            android:text="@string/texto_taxista"
+            android:textColor="@color/white" />
+
+    </FrameLayout>
+    <RelativeLayout
+        android:id="@+id/layout_no_connectivity"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:background="@color/disabled_transparent"
+        android:clickable="true"
+        android:visibility="visible">
+
+        <ImageView
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_above="@+id/textView_no_connectivity"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/loader" />
+
+        <ImageView
+            android:id="@+id/loader_icon"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_above="@+id/textView_no_connectivity"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/loader_sombra" />
+
+        <TextView
+            android:id="@+id/textView_no_connectivity"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_marginStart="@dimen/no_connectivity_text_margin"
+            android:layout_marginEnd="@dimen/no_connectivity_text_margin"
+            android:layout_marginLeft="@dimen/no_connectivity_text_margin"
+            android:layout_marginRight="@dimen/no_connectivity_text_margin"
+            android:gravity="center"
+            android:text="@string/network_connectivity_message"
+            android:textColor="@color/white"
+            android:textSize="@dimen/font_size_large" />
+
+    </RelativeLayout>
+
+
+</RelativeLayout>
