@@ -3,12 +3,174 @@
 
     <item
         is-multidex="false"
+        jar="/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/pre-dexed/celuvansusuario/debug/classes_cf30ca92cb25f36e449eb1170691954d4c0d93b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/developer_celuvans/.android/build-cache/e28afc26fce554c4bb1205f137b9a54babcf3e52/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/pre-dexed/celuvansusuario/debug/internal_impl-24.2.0_62fd84c8ee2942a320f5f0abb660031c4e6b2956.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/developer_celuvans/.android/build-cache/e28afc26fce554c4bb1205f137b9a54babcf3e52/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/pre-dexed/celuvansusuario/debug/classes_b372013a3291abe8897d311337d5033131168c2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/developer_celuvans/.android/build-cache/17412f24d74b541070a435370ce2acd5405d5a3e/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/pre-dexed/celuvansusuario/debug/internal_impl-24.2.0_8a23acb822fdc4b4f96f2fe98d15d2ea9567b94f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/developer_celuvans/.android/build-cache/e7248ff8f74fcbb13888f889cb7d4d7d85e3a43e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="96e33a7aaee00ab64270e2a9887b8f9ef32c8b73">
+        <dex dex="/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/pre-dexed/celuvansusuario/debug/classes_e6bfac2caeb8b5575eadc5dd669e4fe26238f0d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/developer_celuvans/.android/build-cache/1da17f4e520410ea39782cb24fb16acb82fede18/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/pre-dexed/celuvansusuario/debug/classes_2371d061e4b254951fb3503776cadb330b415d66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/developer_celuvans/.android/build-cache/17412f24d74b541070a435370ce2acd5405d5a3e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/pre-dexed/celuvansusuario/debug/classes_65de82858aadf73712888bc8bfa5222cb4fdd587.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/libs/gcm.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f0e7f01db9f6cbc6e5bf47c10c7d74fd7a7052d0">
+        <dex dex="/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/pre-dexed/celuvansusuario/debug/gcm_13fc1231121dcc8020d4d23a252312d998d63017.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/developer_celuvans/.android/build-cache/04f44b0cb05ea4fab450a40546eb6f515e1510b0/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/pre-dexed/celuvansusuario/debug/internal_impl-24.2.0_366743227aa0504e2090063f11bd495ea590ddac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/developer_celuvans/.android/build-cache/89ab095eff10132861b62f3fd8f6e21ae19733e8/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/pre-dexed/celuvansusuario/debug/internal_impl-24.2.0_643788bfc801cbd3352347ea4af03f4066fcfeb6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/developer_celuvans/.android/build-cache/04f44b0cb05ea4fab450a40546eb6f515e1510b0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/pre-dexed/celuvansusuario/debug/classes_120339a03f3bd3abfd8498d491a591e124c9cd17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/developer_celuvans/.android/build-cache/1da17f4e520410ea39782cb24fb16acb82fede18/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/pre-dexed/celuvansusuario/debug/internal_impl-24.2.0_3e22ee6ad19bffd8d4ea3852d38f00cce4d826e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/developer_celuvans/.android/build-cache/d027f54779c68c37bd2c2c7ca10eb735f740774c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/pre-dexed/celuvansusuario/debug/classes_5260fdab76d32915bdc7dd35b58ebf9453f897bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/developer_celuvans/.android/build-cache/35bee012e75bc66f29bfce57a7d95341418acc30/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/pre-dexed/celuvansusuario/debug/classes_8d9d0d6f53a19ef7db263cad6771dadeac2ae46d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/developer_celuvans/.android/build-cache/690ac0e9f0c27ce19e88c652b73c1264c642ec82/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/pre-dexed/celuvansusuario/debug/classes_9ad9e094c0fb4f1fbe3b18793824b775294deca0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/developer_celuvans/.android/build-cache/6462033f9f038821ddb6f3b8e443aab24f049571/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/pre-dexed/celuvansusuario/debug/classes_e8c8d25a858c842e6bd780a6f124cec5bf00b7d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/libs/gcm.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="f0e7f01db9f6cbc6e5bf47c10c7d74fd7a7052d0">
         <dex dex="/Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/build/intermediates/pre-dexed/celuvansusuario/debug/gcm_f0b4edcfba79e780b1093c1c41ee4eb396a60008.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/developer_celuvans/.android/build-cache/0a2bc345fe957a6390f536f26e514d63bb961d00/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/pre-dexed/celuvansusuario/debug/classes_71964250364891dfa0cdf4204060a4137329a13b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/developer_celuvans/.android/build-cache/89ab095eff10132861b62f3fd8f6e21ae19733e8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/pre-dexed/celuvansusuario/debug/classes_3331b1010415ea91c86dacce0e603648631bbdb0.jar" />
     </item>
 
 </items>

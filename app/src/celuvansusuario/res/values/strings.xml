@@ -6,6 +6,7 @@
     <string name="action_settings">Ajustes</string>
     <string name="addaddress">address/create</string>
     <string name="address">Dirección</string>
+    <string name="google_api_key">AIzaSyBH2EK1sn58xOTzJZZMFcx37je7OYK8y7M</string>
     <string name="agend">schedule/create</string>
     <string name="driver_arrived_message">Ya llego tu conductor. Gracias por utilizar TaxisYa</string>
     <string name="agradecimiento_uso_taxisya">Gracias por utilizar TaxisYa, lo invitamos a calificar nuestro servicio</string>

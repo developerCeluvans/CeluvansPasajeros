@@ -52,6 +52,7 @@ import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentActivity;
 import android.support.v4.app.NotificationCompat;
 import android.text.Editable;
+import android.text.Html;
 import android.text.TextUtils;
 import android.text.TextWatcher;
 import android.util.DisplayMetrics;
@@ -68,6 +69,7 @@ import android.view.inputmethod.EditorInfo;
 import android.view.inputmethod.InputMethodManager;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
+import android.widget.AutoCompleteTextView;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ImageView;
@@ -85,15 +87,21 @@ import com.google.android.gms.common.GooglePlayServicesUtil;
 import com.google.android.gms.common.api.GoogleApiClient;
 import com.google.android.gms.common.api.GoogleApiClient.ConnectionCallbacks;
 import com.google.android.gms.common.api.GoogleApiClient.OnConnectionFailedListener;
+import com.google.android.gms.common.api.PendingResult;
+import com.google.android.gms.common.api.ResultCallback;
 import com.google.android.gms.location.LocationListener;
 import com.google.android.gms.location.LocationRequest;
 import com.google.android.gms.location.LocationServices;
+import com.google.android.gms.location.places.Place;
+import com.google.android.gms.location.places.PlaceBuffer;
+import com.google.android.gms.location.places.Places;
 import com.google.android.gms.maps.CameraUpdateFactory;
 import com.google.android.gms.maps.GoogleMap;
 import com.google.android.gms.maps.OnMapReadyCallback;
 import com.google.android.gms.maps.SupportMapFragment;
 import com.google.android.gms.maps.model.CameraPosition;
 import com.google.android.gms.maps.model.LatLng;
+import com.google.android.gms.maps.model.LatLngBounds;
 import com.google.android.gms.maps.model.Marker;
 import com.imaginamos.usuariofinal.taxisya.activities.AgendarActivity;
 import com.imaginamos.usuariofinal.taxisya.activities.ConfirmacionActivity;
@@ -107,6 +115,7 @@ import com.imaginamos.usuariofinal.taxisya.activities.PerfilActivity;
 import com.imaginamos.usuariofinal.taxisya.activities.HistorialActivity;
 import com.imaginamos.usuariofinal.taxisya.activities.RegistroActivity;
 import com.imaginamos.usuariofinal.taxisya.adapter.BDAdapter;
+import com.imaginamos.usuariofinal.taxisya.adapter.PlaceArrayAdapter;
 import com.imaginamos.usuariofinal.taxisya.comm.NetworkChangeReceiver;
 import com.imaginamos.usuariofinal.taxisya.comm.Preferencias;
 import com.imaginamos.usuariofinal.taxisya.dialogs.Dialogos;
@@ -242,6 +251,19 @@ public class MapaActivitys extends FragmentActivity implements OnClickListener,
     private RadioButton mPayType3;
     private EditText mTicket;
     private boolean isTicketValid = false;
+    private TextView mNameTextView;
+    private TextView mAddressTextView;
+    private TextView mIdTextView;
+    private TextView mPhoneTextView;
+    private TextView mWebTextView;
+    private TextView mAttTextView;
+    //autocomplete
+    private static final String LOG_TAG = "MapaActivitys";
+    private static final int GOOGLE_API_CLIENT_ID = 0;
+    private AutoCompleteTextView mAutocompleteTextView;
+    private PlaceArrayAdapter mPlaceArrayAdapter;
+    private static final LatLngBounds BOUNDS_MOUNTAIN_VIEW = new LatLngBounds(
+            new LatLng(37.398160, -122.180831), new LatLng(37.430610, -121.972090));
 
     @Override
     protected void onDestroy() {
@@ -374,6 +396,25 @@ public class MapaActivitys extends FragmentActivity implements OnClickListener,
         overridePendingTransition(R.anim.pull_in_from_right, R.anim.hold);
 
         setContentView(R.layout.activity_pedir);
+
+        mGoogleApiClient = new GoogleApiClient.Builder(MapaActivitys.this)
+                .addConnectionCallbacks(this)
+                .addOnConnectionFailedListener(this)
+                .addApi(LocationServices.API)
+                .addApi(Places.GEO_DATA_API)
+                .enableAutoManage(this, GOOGLE_API_CLIENT_ID, this)
+                .addConnectionCallbacks(this)
+                .build();
+        mAutocompleteTextView = (AutoCompleteTextView) findViewById(R.id.autoCompleteTextView);
+        mAutocompleteTextView.setThreshold(3);
+        mNameTextView = (TextView) findViewById(R.id.name);
+        mAutocompleteTextView.setOnItemClickListener(mAutocompleteClickListener);
+        mPlaceArrayAdapter = new PlaceArrayAdapter(this, android.R.layout.simple_list_item_1, BOUNDS_MOUNTAIN_VIEW, null);
+        mAutocompleteTextView.setAdapter(mPlaceArrayAdapter);
+        if (!mGoogleApiClient.isConnected()) {
+            mGoogleApiClient.connect();
+        }
+
 
         final ListView menuLateral = (ListView) findViewById(R.id.menuLateral);
         ListaAdapter adapter;
@@ -584,7 +625,7 @@ public class MapaActivitys extends FragmentActivity implements OnClickListener,
             Log.v("SEGUIMIENTO", "onCreate - 1 - MainActivity after checkPlayServices ok ");
 
             // Building the GoogleApi client
-            buildGoogleApiClient();
+            //buildGoogleApiClient();
 
             fm = (SupportMapFragment) getSupportFragmentManager().findFragmentById(R.id.map);
 //            fm = (MapFragment)  getFragmentManager().findFragmentById(R.id.map);
@@ -1717,16 +1758,42 @@ public class MapaActivitys extends FragmentActivity implements OnClickListener,
         alertDialog.show();
     }
 
-    protected synchronized void buildGoogleApiClient() {
-        mGoogleApiClient = new GoogleApiClient.Builder(this)
-                .addConnectionCallbacks(this)
-                .addOnConnectionFailedListener(this)
-                .addApi(LocationServices.API).build();
-        if (!mGoogleApiClient.isConnected()) {
-            mGoogleApiClient.connect();
+    private AdapterView.OnItemClickListener mAutocompleteClickListener = new AdapterView.OnItemClickListener() {
+        @Override
+        public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
+            final PlaceArrayAdapter.PlaceAutocomplete item = mPlaceArrayAdapter.getItem(position);
+            final String placeId = String.valueOf(item.placeId);
+            Log.i(LOG_TAG, "Selected: " + item.description);
+            PendingResult<PlaceBuffer> placeResult = Places.GeoDataApi
+                    .getPlaceById(mGoogleApiClient, placeId);
+            placeResult.setResultCallback(mUpdatePlaceDetailsCallback);
+            Log.i(LOG_TAG, "Fetching details for ID: " + item.placeId);
         }
+    };
 
-    }
+    private ResultCallback<PlaceBuffer> mUpdatePlaceDetailsCallback
+            = new ResultCallback<PlaceBuffer>() {
+        @Override
+        public void onResult(PlaceBuffer places) {
+            if (!places.getStatus().isSuccess()) {
+                Log.e(LOG_TAG, "Place query did not complete. Error: " +
+                        places.getStatus().toString());
+                return;
+            }
+            // Selecting the first object buffer.
+            final Place place = places.get(0);
+            CharSequence attributions = places.getAttributions();
+
+            mNameTextView.setText(Html.fromHtml(place.getName() + ""));
+            /*mAddressTextView.setText(Html.fromHtml(place.getAddress() + ""));
+            mIdTextView.setText(Html.fromHtml(place.getId() + ""));
+            mPhoneTextView.setText(Html.fromHtml(place.getPhoneNumber() + ""));
+            mWebTextView.setText(place.getWebsiteUri() + "");*/
+            if (attributions != null) {
+                mAttTextView.setText(Html.fromHtml(attributions.toString()));
+            }
+        }
+    };
 
     private boolean checkPlayServices() {
         int resultCode = GooglePlayServicesUtil
@@ -1793,17 +1860,21 @@ public class MapaActivitys extends FragmentActivity implements OnClickListener,
         Log.e("LOG", "onConnectionFailed");
         Log.v("SEGUIMIENTO", "onConnectionFailed -- ");
 
-        Toast.makeText(this, getResources().getString(R.string.enable_gps),
-                Toast.LENGTH_LONG).show();
+        Toast.makeText(this, getResources().getString(R.string.enable_gps), Toast.LENGTH_LONG).show();
+
+        Log.e(LOG_TAG, "Google Places API connection failed with error code: " + result.getErrorCode());
+        Toast.makeText(this, "Google Places API connection failed with error code:" + result.getErrorCode(), Toast.LENGTH_LONG).show();
     }
 
     @Override
     public void onConnected(Bundle connectionHint) {
         Log.e("LOG", "onConnected");
         Log.v("SEGUIMIENTO", "onConnected -- ");
-///		mLocationClient.requestLocationUpdates(mLocationRequest, this);
         displayLocation();
         startLocationUpdates();
+
+        mPlaceArrayAdapter.setGoogleApiClient(mGoogleApiClient);
+        Log.i(LOG_TAG, "Google Places API connected.");
     }
 
     public static boolean isLocationEnabled(Context context) {
@@ -1828,8 +1899,9 @@ public class MapaActivitys extends FragmentActivity implements OnClickListener,
     }
 
     @Override
-    public void onConnectionSuspended(int arg0) {
-//        mGoogleApiClient.connect();
+    public void onConnectionSuspended(int i) {
+        mPlaceArrayAdapter.setGoogleApiClient(null);
+        Log.e(LOG_TAG, "Google Places API connection suspended.");
     }
 
     @Override

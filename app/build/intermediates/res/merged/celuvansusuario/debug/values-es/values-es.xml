@@ -161,6 +161,8 @@
     <string name="perfil_contrase_a">Cambiar contraseña</string>
     <string name="placa">placa</string>
     <string name="placa_">"Placa: "</string>
+    <string msgid="1303870564366209730" name="place_autocomplete_clear_button">"Borra la búsqueda"</string>
+    <string msgid="2809095107724486040" name="place_autocomplete_search_hint">"Buscar"</string>
     <string name="reclamo">complain/create</string>
     <string name="recuperar_contrase_a">Recuperar Contraseña</string>
     <string name="registry">user/register</string>

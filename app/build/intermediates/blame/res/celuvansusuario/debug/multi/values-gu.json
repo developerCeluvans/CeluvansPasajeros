@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/build/intermediates/incremental/mergeCeluvansusuarioDebugResources/merged.dir/values-gu/values-gu.xml",
+        "outputFile": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/incremental/mergeCeluvansusuarioDebugResources/merged.dir/values-gu/values-gu.xml",
         "map": [
             {
                 "to": {
@@ -322,6 +322,44 @@
                         "startOffset": 2450,
                         "endColumn": 106,
                         "endOffset": 2556
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 2629,
+                    "endColumn": 101,
+                    "endOffset": 2726
+                },
+                "from": {
+                    "file": "/Users/developer_celuvans/.android/build-cache/b56e068ee11508a48b603c798326e5a38cd2e2dd/output/res/values-gu/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 233,
+                        "endColumn": 97,
+                        "endOffset": 330
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 2731,
+                    "endColumn": 93,
+                    "endOffset": 2820
+                },
+                "from": {
+                    "file": "/Users/developer_celuvans/.android/build-cache/b56e068ee11508a48b603c798326e5a38cd2e2dd/output/res/values-gu/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 0,
+                        "startOffset": 331,
+                        "endColumn": 89,
+                        "endOffset": 420
                     }
                 }
             }

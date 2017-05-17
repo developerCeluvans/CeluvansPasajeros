@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/build/intermediates/incremental/mergeCeluvansusuarioDebugResources/merged.dir/values-ldpi-v4/values-ldpi-v4.xml",
+        "outputFile": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/incremental/mergeCeluvansusuarioDebugResources/merged.dir/values-ldpi-v4/values-ldpi-v4.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 93
                 },
                 "from": {
-                    "file": "/Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/res/values-ldpi/dimen.xml",
+                    "file": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/res/values-ldpi/dimen.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 1,
@@ -30,7 +30,7 @@
                     "endOffset": 136
                 },
                 "from": {
-                    "file": "/Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/res/values-ldpi/dimen.xml",
+                    "file": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/res/values-ldpi/dimen.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 1,
@@ -49,7 +49,7 @@
                     "endOffset": 183
                 },
                 "from": {
-                    "file": "/Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/res/values-ldpi/dimen.xml",
+                    "file": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/res/values-ldpi/dimen.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 225
                 },
                 "from": {
-                    "file": "/Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/res/values-ldpi/dimen.xml",
+                    "file": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/res/values-ldpi/dimen.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

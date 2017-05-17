@@ -72,16 +72,34 @@ public final class R {
         public static final int zOrderOnTop = 0x7f010116;
     }
     public static final class color {
-        public static final int common_google_signin_btn_text_dark = 0x7f0c007e;
+        public static final int common_google_signin_btn_text_dark = 0x7f0c0084;
         public static final int common_google_signin_btn_text_dark_default = 0x7f0c001c;
         public static final int common_google_signin_btn_text_dark_disabled = 0x7f0c001d;
         public static final int common_google_signin_btn_text_dark_focused = 0x7f0c001e;
         public static final int common_google_signin_btn_text_dark_pressed = 0x7f0c001f;
-        public static final int common_google_signin_btn_text_light = 0x7f0c007f;
+        public static final int common_google_signin_btn_text_light = 0x7f0c0085;
         public static final int common_google_signin_btn_text_light_default = 0x7f0c0020;
         public static final int common_google_signin_btn_text_light_disabled = 0x7f0c0021;
         public static final int common_google_signin_btn_text_light_focused = 0x7f0c0022;
         public static final int common_google_signin_btn_text_light_pressed = 0x7f0c0023;
+        public static final int place_autocomplete_prediction_primary_text = 0x7f0c004a;
+        public static final int place_autocomplete_prediction_primary_text_highlight = 0x7f0c004b;
+        public static final int place_autocomplete_prediction_secondary_text = 0x7f0c004c;
+        public static final int place_autocomplete_search_hint = 0x7f0c004d;
+        public static final int place_autocomplete_search_text = 0x7f0c004e;
+        public static final int place_autocomplete_separator = 0x7f0c004f;
+    }
+    public static final class dimen {
+        public static final int place_autocomplete_button_padding = 0x7f080082;
+        public static final int place_autocomplete_powered_by_google_height = 0x7f080083;
+        public static final int place_autocomplete_powered_by_google_start = 0x7f080084;
+        public static final int place_autocomplete_prediction_height = 0x7f080085;
+        public static final int place_autocomplete_prediction_horizontal_margin = 0x7f080086;
+        public static final int place_autocomplete_prediction_primary_text = 0x7f080087;
+        public static final int place_autocomplete_prediction_secondary_text = 0x7f080088;
+        public static final int place_autocomplete_progress_horizontal_margin = 0x7f080089;
+        public static final int place_autocomplete_progress_size = 0x7f08008a;
+        public static final int place_autocomplete_separator_start = 0x7f08008b;
     }
     public static final class drawable {
         public static final int common_full_open_on_phone = 0x7f02008f;
@@ -105,6 +123,10 @@ public final class R {
         public static final int common_google_signin_btn_text_light_focused = 0x7f0200a1;
         public static final int common_google_signin_btn_text_light_normal = 0x7f0200a2;
         public static final int common_google_signin_btn_text_light_pressed = 0x7f0200a3;
+        public static final int places_ic_clear = 0x7f0200ea;
+        public static final int places_ic_search = 0x7f0200eb;
+        public static final int powered_by_google_dark = 0x7f0200ef;
+        public static final int powered_by_google_light = 0x7f0200f0;
     }
     public static final class id {
         public static final int adjust_height = 0x7f0d0047;
@@ -134,13 +156,21 @@ public final class R {
         public static final int normal = 0x7f0d0010;
         public static final int omnibox_title_section = 0x7f0d0059;
         public static final int omnibox_url_section = 0x7f0d005a;
+        public static final int place_autocomplete_clear_button = 0x7f0d0152;
+        public static final int place_autocomplete_powered_by_google = 0x7f0d0154;
+        public static final int place_autocomplete_prediction_primary_text = 0x7f0d0156;
+        public static final int place_autocomplete_prediction_secondary_text = 0x7f0d0157;
+        public static final int place_autocomplete_progress = 0x7f0d0155;
+        public static final int place_autocomplete_search_button = 0x7f0d0150;
+        public static final int place_autocomplete_search_input = 0x7f0d0151;
+        public static final int place_autocomplete_separator = 0x7f0d0153;
         public static final int plain = 0x7f0d0052;
         public static final int radio = 0x7f0d007c;
         public static final int rfc822 = 0x7f0d0053;
         public static final int satellite = 0x7f0d004a;
         public static final int standard = 0x7f0d005c;
         public static final int terrain = 0x7f0d004b;
-        public static final int text = 0x7f0d014c;
+        public static final int text = 0x7f0d014d;
         public static final int text1 = 0x7f0d003f;
         public static final int text2 = 0x7f0d0040;
         public static final int thing_proto = 0x7f0d0041;
@@ -150,6 +180,12 @@ public final class R {
     }
     public static final class integer {
         public static final int google_play_services_version = 0x7f0b0006;
+    }
+    public static final class layout {
+        public static final int place_autocomplete_fragment = 0x7f03004e;
+        public static final int place_autocomplete_item_powered_by_google = 0x7f03004f;
+        public static final int place_autocomplete_item_prediction = 0x7f030050;
+        public static final int place_autocomplete_progress = 0x7f030051;
     }
     public static final class raw {
         public static final int gtm_analytics = 0x7f050001;
@@ -172,6 +208,8 @@ public final class R {
         public static final int common_open_on_phone = 0x7f060021;
         public static final int common_signin_button_text = 0x7f060022;
         public static final int common_signin_button_text_long = 0x7f060023;
+        public static final int place_autocomplete_clear_button = 0x7f060024;
+        public static final int place_autocomplete_search_hint = 0x7f060025;
     }
     public static final class styleable {
         public static final int[] AppDataSearch = { };

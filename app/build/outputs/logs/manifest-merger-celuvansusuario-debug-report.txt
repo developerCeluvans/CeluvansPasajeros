@@ -1,170 +1,171 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:2:1-197:12
+ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:2:1-199:12
 	package
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:3:5-50
-		INJECTED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:3:5-50
+		INJECTED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml
 	android:versionName
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:5:5-30
-		INJECTED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml
 	android:versionCode
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:4:5-29
-		INJECTED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:4:5-29
+		INJECTED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:2:11-69
 uses-feature#android.hardware.telephony
-ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:7:5-9:36
+ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:7:5-9:36
 	android:required
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:9:9-33
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:9:9-33
 	android:name
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:8:9-50
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:8:9-50
 permission#com.imaginamos.usuariofinal.taxisya.permission.MAPS_RECEIVE
-ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:11:5-13:47
+ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:11:5-13:47
 	android:protectionLevel
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:13:9-44
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:13:9-44
 	android:name
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:12:9-83
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:12:9-83
 uses-permission#com.imaginamos.usuariofinal.taxisya.permission.MAPS_RECEIVE
-ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:15:5-99
+ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:15:5-99
 	android:name
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:15:22-96
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:15:22-96
 uses-permission#android.permission.INTERNET
-ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:16:5-67
+ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:16:5-67
 MERGED from [com.crashlytics.sdk.android:crashlytics:2.6.5] /Users/developer_celuvans/.android/build-cache/481251dbcce807a06ece32fcb0bc0ec8c06e93e8/output/AndroidManifest.xml:9:5-67
 MERGED from [com.crashlytics.sdk.android:beta:1.2.2] /Users/developer_celuvans/.android/build-cache/3f5209eb7f7f850f40775713e8768b274304b8b9/output/AndroidManifest.xml:9:5-67
 MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.14] /Users/developer_celuvans/.android/build-cache/80ef30e5edf8f0d82001ea474e80bebff6d6d858/output/AndroidManifest.xml:9:5-67
 MERGED from [com.crashlytics.sdk.android:answers:1.3.10] /Users/developer_celuvans/.android/build-cache/21434de169124799799b02c2dadf9ace76f9732a/output/AndroidManifest.xml:9:5-67
 MERGED from [io.fabric.sdk.android:fabric:1.3.14] /Users/developer_celuvans/.android/build-cache/902bb16b0b42a8be3e48a7e3bac90a43df397c5a/output/AndroidManifest.xml:25:5-67
-MERGED from [com.google.android.gms:play-services-maps:9.8.0] /Users/developer_celuvans/.android/build-cache/b397c8ec2ee9ddbcc3d4117adeff04c5e78c0f21/output/AndroidManifest.xml:20:5-66
 MERGED from [com.google.android.gms:play-services-analytics:9.8.0] /Users/developer_celuvans/.android/build-cache/2a166b5a36a706016014828bc20e9fa294372243/output/AndroidManifest.xml:20:5-66
 MERGED from [com.google.android.gms:play-services-analytics-impl:9.8.0] /Users/developer_celuvans/.android/build-cache/3fbab5d6eefc0d7d8d3168ce44b32d989e723a90/output/AndroidManifest.xml:20:5-66
 MERGED from [com.google.android.gms:play-services-gcm:9.8.0] /Users/developer_celuvans/.android/build-cache/1be33f13a1656a375170ce1806a89d4f573a1739/output/AndroidManifest.xml:21:5-66
 MERGED from [com.google.android.gms:play-services-iid:9.8.0] /Users/developer_celuvans/.android/build-cache/8485a55caffa103b8d1e6f8cc460fe773245d8ea/output/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-maps:9.8.0] /Users/developer_celuvans/.android/build-cache/b397c8ec2ee9ddbcc3d4117adeff04c5e78c0f21/output/AndroidManifest.xml:20:5-66
 MERGED from [com.google.firebase:firebase-analytics:9.8.0] /Users/developer_celuvans/.android/build-cache/6bd29942f422b8b1013ac74e74c5846ac8550a75/output/AndroidManifest.xml:20:5-66
 MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] /Users/developer_celuvans/.android/build-cache/cd3fe600b25223346335fb3b5bbdcb438ca661ae/output/AndroidManifest.xml:20:5-66
 MERGED from [com.google.firebase:firebase-iid:9.8.0] /Users/developer_celuvans/.android/build-cache/b378c97536ed0255b8f8238f6aa044a382a6f912/output/AndroidManifest.xml:20:5-66
 MERGED from [com.paymentez.paymentezsdk:paymentezsdk:1.0.4] /Users/developer_celuvans/.android/build-cache/e0d6ec5053bec00901a303998191bb618044d736/output/AndroidManifest.xml:11:5-67
 	android:name
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:16:22-64
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:16:22-64
 uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
-ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:17:5-98
+ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:17:5-98
 	android:name
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:17:22-95
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:17:22-95
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:18:5-79
+ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:18:5-79
 MERGED from [com.paymentez.paymentezsdk:paymentezsdk:1.0.4] /Users/developer_celuvans/.android/build-cache/e0d6ec5053bec00901a303998191bb618044d736/output/AndroidManifest.xml:16:5-79
 	android:name
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:18:22-76
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:18:22-76
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:19:5-81
+ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:19:5-81
 MERGED from [com.paymentez.paymentezsdk:paymentezsdk:1.0.4] /Users/developer_celuvans/.android/build-cache/e0d6ec5053bec00901a303998191bb618044d736/output/AndroidManifest.xml:17:5-81
 	android:name
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:19:22-78
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:19:22-78
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:20:5-81
+ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:20:5-81
 	android:name
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:20:22-78
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:20:22-78
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:21:5-79
-MERGED from [com.google.android.gms:play-services-maps:9.8.0] /Users/developer_celuvans/.android/build-cache/b397c8ec2ee9ddbcc3d4117adeff04c5e78c0f21/output/AndroidManifest.xml:19:5-78
+ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:21:5-79
 MERGED from [com.google.android.gms:play-services-analytics:9.8.0] /Users/developer_celuvans/.android/build-cache/2a166b5a36a706016014828bc20e9fa294372243/output/AndroidManifest.xml:21:5-78
 MERGED from [com.google.android.gms:play-services-analytics-impl:9.8.0] /Users/developer_celuvans/.android/build-cache/3fbab5d6eefc0d7d8d3168ce44b32d989e723a90/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-maps:9.8.0] /Users/developer_celuvans/.android/build-cache/b397c8ec2ee9ddbcc3d4117adeff04c5e78c0f21/output/AndroidManifest.xml:19:5-78
 MERGED from [com.google.firebase:firebase-analytics:9.8.0] /Users/developer_celuvans/.android/build-cache/6bd29942f422b8b1013ac74e74c5846ac8550a75/output/AndroidManifest.xml:21:5-78
 MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] /Users/developer_celuvans/.android/build-cache/cd3fe600b25223346335fb3b5bbdcb438ca661ae/output/AndroidManifest.xml:21:5-78
 MERGED from [com.google.firebase:firebase-iid:9.8.0] /Users/developer_celuvans/.android/build-cache/b378c97536ed0255b8f8238f6aa044a382a6f912/output/AndroidManifest.xml:19:5-78
 MERGED from [com.paymentez.paymentezsdk:paymentezsdk:1.0.4] /Users/developer_celuvans/.android/build-cache/e0d6ec5053bec00901a303998191bb618044d736/output/AndroidManifest.xml:12:5-79
 	android:name
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:21:22-76
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:21:22-76
 uses-permission#android.permission.VIBRATE
-ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:22:5-66
+ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:22:5-66
 MERGED from [com.paymentez.paymentezsdk:paymentezsdk:1.0.4] /Users/developer_celuvans/.android/build-cache/e0d6ec5053bec00901a303998191bb618044d736/output/AndroidManifest.xml:20:5-66
 MERGED from [io.card:android-sdk:5.3.4] /Users/developer_celuvans/.android/build-cache/6cc714b476af58ad6075cef8981601159e61f91b/output/AndroidManifest.xml:12:5-66
 	android:name
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:22:22-63
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:22:22-63
 uses-permission#android.permission.READ_PHONE_STATE
-ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:23:5-75
+ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:23:5-75
 	android:name
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:23:22-72
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:23:22-72
 uses-permission#android.permission.GET_ACCOUNTS
-ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:24:5-71
+ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:24:5-71
 	android:name
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:24:22-68
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:24:22-68
 uses-permission#android.permission.WAKE_LOCK
-ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:25:5-68
+ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:25:5-68
 MERGED from [com.google.android.gms:play-services-analytics:9.8.0] /Users/developer_celuvans/.android/build-cache/2a166b5a36a706016014828bc20e9fa294372243/output/AndroidManifest.xml:24:5-67
 MERGED from [com.google.android.gms:play-services-analytics-impl:9.8.0] /Users/developer_celuvans/.android/build-cache/3fbab5d6eefc0d7d8d3168ce44b32d989e723a90/output/AndroidManifest.xml:24:5-67
 MERGED from [com.google.firebase:firebase-analytics:9.8.0] /Users/developer_celuvans/.android/build-cache/6bd29942f422b8b1013ac74e74c5846ac8550a75/output/AndroidManifest.xml:22:5-67
 MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] /Users/developer_celuvans/.android/build-cache/cd3fe600b25223346335fb3b5bbdcb438ca661ae/output/AndroidManifest.xml:22:5-67
 MERGED from [com.google.firebase:firebase-iid:9.8.0] /Users/developer_celuvans/.android/build-cache/b378c97536ed0255b8f8238f6aa044a382a6f912/output/AndroidManifest.xml:21:5-67
 	android:name
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:25:22-65
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:25:22-65
 uses-permission#android.permission.CALL_PHONE
-ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:26:5-69
+ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:26:5-69
 	android:name
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:26:22-66
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:26:22-66
 uses-permission#com.google.android.c2dm.permission.RECEIVE
-ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:27:5-82
+ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:27:5-82
 MERGED from [com.google.android.gms:play-services-gcm:9.8.0] /Users/developer_celuvans/.android/build-cache/1be33f13a1656a375170ce1806a89d4f573a1739/output/AndroidManifest.xml:20:5-81
 MERGED from [com.google.android.gms:play-services-iid:9.8.0] /Users/developer_celuvans/.android/build-cache/8485a55caffa103b8d1e6f8cc460fe773245d8ea/output/AndroidManifest.xml:20:5-81
 MERGED from [com.google.firebase:firebase-iid:9.8.0] /Users/developer_celuvans/.android/build-cache/b378c97536ed0255b8f8238f6aa044a382a6f912/output/AndroidManifest.xml:22:5-81
 	android:name
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:27:22-79
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:27:22-79
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
-ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:28:5-78
+ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:28:5-78
 	android:name
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:28:22-75
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:28:22-75
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:30:5-76
+ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:30:5-76
 MERGED from [com.paymentez.paymentezsdk:paymentezsdk:1.0.4] /Users/developer_celuvans/.android/build-cache/e0d6ec5053bec00901a303998191bb618044d736/output/AndroidManifest.xml:14:5-76
 	android:name
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:30:22-73
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:30:22-73
 uses-permission#com.android.browser.permission.READ_HISTORY_BOOKM_ARKS
-ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:32:5-93
+ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:32:5-93
 	android:name
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:32:22-91
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:32:22-91
 uses-feature#android.hardware.wifi
-ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:34:5-83
+ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:34:5-83
 	android:required
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:34:56-80
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:34:56-80
 	android:name
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:34:19-55
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:34:19-55
 permission#com.imaginamos.usuariofinal.taxisya.permission.C2D_MESSAGE
-ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:36:5-38:47
+ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:36:5-38:47
 	android:protectionLevel
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:38:9-44
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:38:9-44
 	android:name
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:37:9-82
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:37:9-82
 uses-permission#com.imaginamos.usuariofinal.taxisya.permission.C2D_MESSAGE
-ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:40:5-98
+ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:40:5-98
 	android:name
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:40:22-95
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:40:22-95
 uses-permission#android.permission.USE_CREDENTIALS
-ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:41:5-74
+ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:41:5-74
 	android:name
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:41:22-71
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:41:22-71
 android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:43:5-88
+ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:43:5-88
 	android:name
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:43:30-85
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:43:30-85
 application
-ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:45:5-195:19
+ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:45:5-197:19
 MERGED from [com.crashlytics.sdk.android:crashlytics:2.6.5] /Users/developer_celuvans/.android/build-cache/481251dbcce807a06ece32fcb0bc0ec8c06e93e8/output/AndroidManifest.xml:11:5-20
 MERGED from [com.crashlytics.sdk.android:beta:1.2.2] /Users/developer_celuvans/.android/build-cache/3f5209eb7f7f850f40775713e8768b274304b8b9/output/AndroidManifest.xml:11:5-20
 MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.14] /Users/developer_celuvans/.android/build-cache/80ef30e5edf8f0d82001ea474e80bebff6d6d858/output/AndroidManifest.xml:11:5-20
 MERGED from [com.crashlytics.sdk.android:answers:1.3.10] /Users/developer_celuvans/.android/build-cache/21434de169124799799b02c2dadf9ace76f9732a/output/AndroidManifest.xml:11:5-20
 MERGED from [io.fabric.sdk.android:fabric:1.3.14] /Users/developer_celuvans/.android/build-cache/902bb16b0b42a8be3e48a7e3bac90a43df397c5a/output/AndroidManifest.xml:27:5-20
-MERGED from [com.android.support:design:24.2.0] /Users/developer_celuvans/.android/build-cache/f2eefab6a579fab120ae854b6a0ce13f97464aed/output/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:cardview-v7:24.2.0] /Users/developer_celuvans/.android/build-cache/67ec87b8544a363dca742b05673cbea66ec337a7/output/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-maps:9.8.0] /Users/developer_celuvans/.android/build-cache/b397c8ec2ee9ddbcc3d4117adeff04c5e78c0f21/output/AndroidManifest.xml:24:5-19
+MERGED from [com.android.support:design:24.2.0] /Users/developer_celuvans/.android/build-cache/35bee012e75bc66f29bfce57a7d95341418acc30/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:24.2.0] /Users/developer_celuvans/.android/build-cache/e7248ff8f74fcbb13888f889cb7d4d7d85e3a43e/output/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-appindexing:9.8.0] /Users/developer_celuvans/.android/build-cache/de2e5bc0430d69f9676ef1f867b93515e7728352/output/AndroidManifest.xml:18:5-19
 MERGED from [com.google.android.gms:play-services-location:9.8.0] /Users/developer_celuvans/.android/build-cache/7e0c59e3c3b7b437ec8b3d371799a64058d2c359/output/AndroidManifest.xml:4:5-19
 MERGED from [com.google.android.gms:play-services-analytics:9.8.0] /Users/developer_celuvans/.android/build-cache/2a166b5a36a706016014828bc20e9fa294372243/output/AndroidManifest.xml:26:5-19
 MERGED from [com.google.android.gms:play-services-analytics-impl:9.8.0] /Users/developer_celuvans/.android/build-cache/3fbab5d6eefc0d7d8d3168ce44b32d989e723a90/output/AndroidManifest.xml:26:5-19
 MERGED from [com.google.android.gms:play-services-gcm:9.8.0] /Users/developer_celuvans/.android/build-cache/1be33f13a1656a375170ce1806a89d4f573a1739/output/AndroidManifest.xml:23:5-19
 MERGED from [com.google.android.gms:play-services-iid:9.8.0] /Users/developer_celuvans/.android/build-cache/8485a55caffa103b8d1e6f8cc460fe773245d8ea/output/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-places:9.8.0] /Users/developer_celuvans/.android/build-cache/b56e068ee11508a48b603c798326e5a38cd2e2dd/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:9.8.0] /Users/developer_celuvans/.android/build-cache/b397c8ec2ee9ddbcc3d4117adeff04c5e78c0f21/output/AndroidManifest.xml:24:5-19
 MERGED from [com.google.android.gms:play-services-base:9.8.0] /Users/developer_celuvans/.android/build-cache/633fda648e6c4d395cb10bf9bd9a57907c589f55/output/AndroidManifest.xml:18:5-20:19
 MERGED from [de.hdodenhof:circleimageview:1.3.0] /Users/developer_celuvans/.android/build-cache/acd5be3084cc0502cc345816f278582b1633f212/output/AndroidManifest.xml:9:5-20
 MERGED from [com.google.firebase:firebase-core:9.8.0] /Users/developer_celuvans/.android/build-cache/315fbd3e940a198950bf16afdc8c35989b8c45c5/output/AndroidManifest.xml:5:5-20
@@ -176,309 +177,310 @@ MERGED from [com.google.firebase:firebase-common:9.8.0] /Users/developer_celuvan
 MERGED from [com.google.android.gms:play-services-tasks:9.8.0] /Users/developer_celuvans/.android/build-cache/a66f801dcb576068e2eb9b6244ac00101560dbcd/output/AndroidManifest.xml:4:5-19
 MERGED from [com.google.android.gms:play-services-basement:9.8.0] /Users/developer_celuvans/.android/build-cache/b667458b223ecfc83b348ce2e023cdaa4ad8feef/output/AndroidManifest.xml:19:5-21:19
 MERGED from [com.paymentez.paymentezsdk:paymentezsdk:1.0.4] /Users/developer_celuvans/.android/build-cache/e0d6ec5053bec00901a303998191bb618044d736/output/AndroidManifest.xml:36:5-47:19
-MERGED from [com.android.support:appcompat-v7:24.2.0] /Users/developer_celuvans/.android/build-cache/ca255d7aff4b8e53851f0aa950a3127bb8a68ddd/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:24.2.0] /Users/developer_celuvans/.android/build-cache/2ce49d76f6f2d0e53098927b9e773b772e6ff8e1/output/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:24.2.0] /Users/developer_celuvans/.android/build-cache/4dac78d597d50e7a42bd6fbbba1e728f455271ea/output/AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:support-v4:24.2.0] /Users/developer_celuvans/.android/build-cache/96f55cf3389c37c185a9fd73e100c7f387ec8751/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:24.2.0] /Users/developer_celuvans/.android/build-cache/e0a7c9403f2b65129d72d920f9384747af57214b/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:24.2.0] /Users/developer_celuvans/.android/build-cache/94f2f2c1106eae17b19efcbd9c4d663fed500a37/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:24.2.0] /Users/developer_celuvans/.android/build-cache/5711fe0e4f13840f2a61a2df60d2912d4e528981/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:24.2.0] /Users/developer_celuvans/.android/build-cache/c8668b9253236708296e70d6df8a3ad84be17e06/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-compat:24.2.0] /Users/developer_celuvans/.android/build-cache/82a60c891eeae0ae598d1da7495060acf96cd834/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.0] /Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] /Users/developer_celuvans/.android/build-cache/0a2bc345fe957a6390f536f26e514d63bb961d00/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.0] /Users/developer_celuvans/.android/build-cache/6462033f9f038821ddb6f3b8e443aab24f049571/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.2.0] /Users/developer_celuvans/.android/build-cache/690ac0e9f0c27ce19e88c652b73c1264c642ec82/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.0] /Users/developer_celuvans/.android/build-cache/17412f24d74b541070a435370ce2acd5405d5a3e/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.0] /Users/developer_celuvans/.android/build-cache/89ab095eff10132861b62f3fd8f6e21ae19733e8/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.0] /Users/developer_celuvans/.android/build-cache/04f44b0cb05ea4fab450a40546eb6f515e1510b0/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.0] /Users/developer_celuvans/.android/build-cache/e28afc26fce554c4bb1205f137b9a54babcf3e52/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] /Users/developer_celuvans/.android/build-cache/1da17f4e520410ea39782cb24fb16acb82fede18/output/AndroidManifest.xml:25:5-20
 MERGED from [io.card:android-sdk:5.3.4] /Users/developer_celuvans/.android/build-cache/6cc714b476af58ad6075cef8981601159e61f91b/output/AndroidManifest.xml:21:5-26:19
 	android:screenOrientation
 		ADDED from [com.paymentez.paymentezsdk:paymentezsdk:1.0.4] /Users/developer_celuvans/.android/build-cache/e0d6ec5053bec00901a303998191bb618044d736/output/AndroidManifest.xml:39:9-45
 	android:label
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:48:9-41
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:48:9-41
 	android:supportsRtl
 		ADDED from [com.paymentez.paymentezsdk:paymentezsdk:1.0.4] /Users/developer_celuvans/.android/build-cache/e0d6ec5053bec00901a303998191bb618044d736/output/AndroidManifest.xml:40:9-35
 	android:allowBackup
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:46:9-35
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:46:9-35
 	android:icon
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:47:9-45
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:47:9-45
 	android:theme
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:49:9-40
-meta-data#com.google.android.maps.v2.API_KEY
-ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:50:9-52:71
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:49:9-40
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:51:9-53:70
 	android:value
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:52:13-68
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:53:13-68
 	android:name
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:51:13-62
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:52:13-58
 service#com.imaginamos.usuariofinal.taxisya.io.MyFirebaseMessagingService
-ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:55:9-59:19
+ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:57:9-61:19
 	android:name
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:55:18-63
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:57:18-63
 intent-filter#com.google.firebase.MESSAGING_EVENT
-ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:56:13-58:29
+ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:58:13-60:29
 action#com.google.firebase.MESSAGING_EVENT
-ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:57:17-78
+ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:59:17-78
 	android:name
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:57:25-75
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:59:25-75
 service#com.imaginamos.usuariofinal.taxisya.io.MyFirebaseInstanceIDService
-ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:62:9-66:19
+ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:64:9-68:19
 	android:name
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:62:18-64
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:64:18-64
 intent-filter#com.google.firebase.INSTANCE_ID_EVENT
-ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:63:13-65:29
+ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:65:13-67:29
 action#com.google.firebase.INSTANCE_ID_EVENT
-ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:64:17-80
+ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:66:17-80
 	android:name
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:64:25-77
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:66:25-77
 activity#com.imaginamos.usuariofinal.taxisya.activities.HomeActivity
-ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:69:9-80:20
+ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:71:9-82:20
 	android:screenOrientation
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:73:13-49
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:75:13-49
 	android:hardwareAccelerated
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:72:13-47
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:74:13-47
 	android:windowSoftInputMode
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:74:13-52
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:76:13-52
 	android:configChanges
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:71:13-63
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:73:13-63
 	android:name
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:70:13-52
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:72:13-52
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:75:13-79:29
+ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:77:13-81:29
 action#android.intent.action.MAIN
-ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:76:17-69
+ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:78:17-69
 	android:name
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:76:25-66
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:78:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:78:17-77
+ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:80:17-77
 	android:name
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:78:27-74
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:80:27-74
 activity#com.imaginamos.taxisya.activities.MapaActivitys
-ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:81:9-86:55
+ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:83:9-88:55
 	android:screenOrientation
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:85:13-49
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:87:13-49
 	android:hardwareAccelerated
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:84:13-47
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:86:13-47
 	android:windowSoftInputMode
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:86:13-52
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:88:13-52
 	android:configChanges
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:83:13-63
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:85:13-63
 	android:name
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:82:13-75
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:84:13-75
 activity#com.imaginamos.usuariofinal.taxisya.activities.LoginActivity
-ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:87:9-91:59
+ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:89:9-93:59
 	android:screenOrientation
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:90:13-49
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:92:13-49
 	android:windowSoftInputMode
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:91:13-56
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:93:13-56
 	android:configChanges
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:89:13-63
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:91:13-63
 	android:name
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:88:13-53
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:90:13-53
 activity#com.imaginamos.usuariofinal.taxisya.activities.HistorialActivity
-ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:92:9-95:52
+ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:94:9-97:52
 	android:screenOrientation
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:95:13-49
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:97:13-49
 	android:configChanges
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:94:13-63
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:96:13-63
 	android:name
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:93:13-57
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:95:13-57
 activity#com.imaginamos.usuariofinal.taxisya.activities.AgendarActivity
-ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:96:9-99:52
+ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:98:9-101:52
 	android:screenOrientation
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:99:13-49
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:101:13-49
 	android:configChanges
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:98:13-63
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:100:13-63
 	android:name
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:97:13-55
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:99:13-55
 activity#com.imaginamos.usuariofinal.taxisya.activities.SolicitandoActivity
-ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:100:9-104:52
+ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:102:9-106:52
 	android:screenOrientation
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:104:13-49
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:106:13-49
 	android:hardwareAccelerated
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:103:13-47
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:105:13-47
 	android:configChanges
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:102:13-63
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:104:13-63
 	android:name
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:101:13-59
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:103:13-59
 activity#com.imaginamos.usuariofinal.taxisya.activities.NotificationActivity
-ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:105:9-109:55
+ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:107:9-111:55
 	android:screenOrientation
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:108:13-49
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:110:13-49
 	android:windowSoftInputMode
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:109:13-52
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:111:13-52
 	android:configChanges
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:107:13-63
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:109:13-63
 	android:name
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:106:13-60
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:108:13-60
 activity#com.imaginamos.usuariofinal.taxisya.activities.RegistroActivity
-ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:110:9-114:55
+ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:112:9-116:55
 	android:screenOrientation
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:113:13-49
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:115:13-49
 	android:windowSoftInputMode
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:114:13-52
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:116:13-52
 	android:configChanges
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:112:13-63
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:114:13-63
 	android:name
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:111:13-56
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:113:13-56
 activity#com.imaginamos.usuariofinal.taxisya.activities.PerfilActivity
-ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:115:9-119:55
+ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:117:9-121:55
 	android:screenOrientation
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:118:13-49
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:120:13-49
 	android:windowSoftInputMode
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:119:13-52
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:121:13-52
 	android:configChanges
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:117:13-63
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:119:13-63
 	android:name
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:116:13-54
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:118:13-54
 activity#com.imaginamos.usuariofinal.taxisya.activities.MisAgendamientosActivity
-ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:120:9-123:52
+ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:122:9-125:52
 	android:screenOrientation
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:123:13-49
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:125:13-49
 	android:configChanges
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:122:13-63
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:124:13-63
 	android:name
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:121:13-64
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:123:13-64
 activity#com.imaginamos.taxisya.Servicioagendado
-ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:124:9-127:52
+ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:126:9-129:52
 	android:screenOrientation
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:127:13-49
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:129:13-49
 	android:configChanges
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:126:13-63
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:128:13-63
 	android:name
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:125:13-67
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:127:13-67
 activity#com.imaginamos.usuariofinal.taxisya.activities.ConfirmacionActivity
-ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:129:9-132:52
+ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:131:9-134:52
 	android:screenOrientation
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:132:13-49
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:134:13-49
 	android:configChanges
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:131:13-63
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:133:13-63
 	android:name
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:130:13-60
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:132:13-60
 activity#com.imaginamos.usuariofinal.taxisya.activities.Main_MapActivity
-ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:133:9-136:52
+ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:135:9-138:52
 	android:screenOrientation
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:136:13-49
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:138:13-49
 	android:configChanges
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:135:13-63
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:137:13-63
 	android:name
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:134:13-56
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:136:13-56
 receiver#com.imaginamos.usuariofinal.taxisya.comm.GcmBroadcastReceiver
-ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:138:9-146:20
+ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:140:9-148:20
 	android:permission
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:140:13-73
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:142:13-73
 	android:name
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:139:13-54
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:141:13-54
 intent-filter#com.google.android.c2dm.intent.RECEIVE+com.imaginamos.usuariofinal.taxisya
-ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:141:13-145:29
+ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:143:13-147:29
 action#com.google.android.c2dm.intent.RECEIVE
-ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:142:17-81
+ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:144:17-81
 	android:name
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:142:25-78
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:144:25-78
 category#com.imaginamos.usuariofinal.taxisya
-ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:144:17-80
+ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:146:17-80
 	android:name
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:144:27-77
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:146:27-77
 service#com.imaginamos.usuariofinal.taxisya.comm.GcmIntentServices
-ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:148:9-59
+ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:150:9-59
 	android:name
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:148:18-56
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:150:18-56
 activity#com.imaginamos.usuariofinal.taxisya.activities.CalificarActivity
-ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:150:9-154:52
+ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:152:9-156:52
 	android:screenOrientation
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:154:13-49
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:156:13-49
 	android:noHistory
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:153:13-37
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:155:13-37
 	android:configChanges
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:152:13-63
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:154:13-63
 	android:name
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:151:13-57
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:153:13-57
 activity#com.imaginamos.usuariofinal.taxisya.activities.ReclamoActivity
-ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:155:9-158:52
+ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:157:9-160:52
 	android:screenOrientation
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:158:13-49
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:160:13-49
 	android:configChanges
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:157:13-63
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:159:13-63
 	android:name
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:156:13-55
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:158:13-55
 activity#com.imaginamos.usuariofinal.taxisya.activities.EndAgendamientoActivity
-ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:159:9-162:52
+ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:161:9-164:52
 	android:screenOrientation
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:162:13-49
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:164:13-49
 	android:configChanges
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:161:13-63
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:163:13-63
 	android:name
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:160:13-63
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:162:13-63
 service#com.imaginamos.taxisya.CheckStatusService
-ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:164:9-77
+ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:166:9-77
 	android:name
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:164:18-74
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:166:18-74
 activity#com.imaginamos.usuariofinal.taxisya.activities.ResetPassActivity
-ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:166:9-169:52
+ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:168:9-171:52
 	android:screenOrientation
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:169:13-49
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:171:13-49
 	android:label
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:168:13-62
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:170:13-62
 	android:name
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:167:13-57
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:169:13-57
 activity#com.imaginamos.usuariofinal.taxisya.comm.NewAddressActivity
-ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:170:9-174:58
+ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:172:9-176:58
 	android:screenOrientation
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:173:13-49
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:175:13-49
 	android:label
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:172:13-63
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:174:13-63
 	android:windowSoftInputMode
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:174:13-55
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:176:13-55
 	android:name
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:171:13-52
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:173:13-52
 meta-data#io.fabric.ApiKey
-ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:176:9-178:72
+ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:178:9-180:72
 	android:value
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:178:13-69
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:180:13-69
 	android:name
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:177:13-44
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:179:13-44
 activity#com.imaginamos.usuariofinal.taxisya.activities.MyAddressesActivity
-ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:180:9-183:52
+ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:182:9-185:52
 	android:screenOrientation
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:183:13-49
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:185:13-49
 	android:label
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:182:13-64
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:184:13-64
 	android:name
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:181:13-59
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:183:13-59
 activity#com.imaginamos.usuariofinal.taxisya.activities.MapNewAddressActivity
-ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:184:9-187:52
+ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:186:9-189:52
 	android:screenOrientation
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:187:13-49
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:189:13-49
 	android:label
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:186:13-67
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:188:13-67
 	android:name
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:185:13-61
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:187:13-61
 activity#com.imaginamos.usuariofinal.taxisya.activities.PagosActivity
-ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:188:9-62
+ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:190:9-62
 	android:name
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:188:19-59
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:190:19-59
 activity#com.imaginamos.usuariofinal.taxisya.activities.AddCardActivity
-ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:189:9-64
+ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:191:9-64
 	android:name
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:189:19-61
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:191:19-61
 activity#com.imaginamos.usuariofinal.taxisya.activities.PaymentsActivity
-ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:191:9-194:52
+ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:193:9-196:52
 	android:screenOrientation
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:194:13-49
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:196:13-49
 	android:configChanges
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:193:13-63
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:195:13-63
 	android:name
-		ADDED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml:192:13-56
+		ADDED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml:194:13-56
 uses-sdk
-INJECTED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.crashlytics.sdk.android:crashlytics:2.6.5] /Users/developer_celuvans/.android/build-cache/481251dbcce807a06ece32fcb0bc0ec8c06e93e8/output/AndroidManifest.xml:7:5-43
 MERGED from [com.crashlytics.sdk.android:beta:1.2.2] /Users/developer_celuvans/.android/build-cache/3f5209eb7f7f850f40775713e8768b274304b8b9/output/AndroidManifest.xml:7:5-43
 MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.14] /Users/developer_celuvans/.android/build-cache/80ef30e5edf8f0d82001ea474e80bebff6d6d858/output/AndroidManifest.xml:7:5-43
 MERGED from [com.crashlytics.sdk.android:answers:1.3.10] /Users/developer_celuvans/.android/build-cache/21434de169124799799b02c2dadf9ace76f9732a/output/AndroidManifest.xml:7:5-43
 MERGED from [io.fabric.sdk.android:fabric:1.3.14] /Users/developer_celuvans/.android/build-cache/902bb16b0b42a8be3e48a7e3bac90a43df397c5a/output/AndroidManifest.xml:23:5-43
-MERGED from [com.android.support:design:24.2.0] /Users/developer_celuvans/.android/build-cache/f2eefab6a579fab120ae854b6a0ce13f97464aed/output/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:24.2.0] /Users/developer_celuvans/.android/build-cache/a4cfc06d1c410fbf37a17147d65d5499696f5c09/output/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:cardview-v7:24.2.0] /Users/developer_celuvans/.android/build-cache/67ec87b8544a363dca742b05673cbea66ec337a7/output/AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-maps:9.8.0] /Users/developer_celuvans/.android/build-cache/b397c8ec2ee9ddbcc3d4117adeff04c5e78c0f21/output/AndroidManifest.xml:23:5-42
+MERGED from [com.android.support:design:24.2.0] /Users/developer_celuvans/.android/build-cache/35bee012e75bc66f29bfce57a7d95341418acc30/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:24.2.0] /Users/developer_celuvans/.android/build-cache/d027f54779c68c37bd2c2c7ca10eb735f740774c/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:24.2.0] /Users/developer_celuvans/.android/build-cache/e7248ff8f74fcbb13888f889cb7d4d7d85e3a43e/output/AndroidManifest.xml:20:5-43
 MERGED from [com.google.android.gms:play-services-appindexing:9.8.0] /Users/developer_celuvans/.android/build-cache/de2e5bc0430d69f9676ef1f867b93515e7728352/output/AndroidManifest.xml:17:5-42
 MERGED from [com.google.android.gms:play-services-location:9.8.0] /Users/developer_celuvans/.android/build-cache/7e0c59e3c3b7b437ec8b3d371799a64058d2c359/output/AndroidManifest.xml:3:5-42
 MERGED from [com.google.android.gms:play-services-analytics:9.8.0] /Users/developer_celuvans/.android/build-cache/2a166b5a36a706016014828bc20e9fa294372243/output/AndroidManifest.xml:17:5-42
 MERGED from [com.google.android.gms:play-services-analytics-impl:9.8.0] /Users/developer_celuvans/.android/build-cache/3fbab5d6eefc0d7d8d3168ce44b32d989e723a90/output/AndroidManifest.xml:17:5-42
 MERGED from [com.google.android.gms:play-services-gcm:9.8.0] /Users/developer_celuvans/.android/build-cache/1be33f13a1656a375170ce1806a89d4f573a1739/output/AndroidManifest.xml:17:5-42
 MERGED from [com.google.android.gms:play-services-iid:9.8.0] /Users/developer_celuvans/.android/build-cache/8485a55caffa103b8d1e6f8cc460fe773245d8ea/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-places:9.8.0] /Users/developer_celuvans/.android/build-cache/b56e068ee11508a48b603c798326e5a38cd2e2dd/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-maps:9.8.0] /Users/developer_celuvans/.android/build-cache/b397c8ec2ee9ddbcc3d4117adeff04c5e78c0f21/output/AndroidManifest.xml:23:5-42
 MERGED from [com.google.android.gms:play-services-base:9.8.0] /Users/developer_celuvans/.android/build-cache/633fda648e6c4d395cb10bf9bd9a57907c589f55/output/AndroidManifest.xml:17:5-42
 MERGED from [de.hdodenhof:circleimageview:1.3.0] /Users/developer_celuvans/.android/build-cache/acd5be3084cc0502cc345816f278582b1633f212/output/AndroidManifest.xml:5:5-7:41
 MERGED from [com.google.firebase:firebase-core:9.8.0] /Users/developer_celuvans/.android/build-cache/315fbd3e940a198950bf16afdc8c35989b8c45c5/output/AndroidManifest.xml:4:5-42
@@ -490,25 +492,25 @@ MERGED from [com.google.firebase:firebase-common:9.8.0] /Users/developer_celuvan
 MERGED from [com.google.android.gms:play-services-tasks:9.8.0] /Users/developer_celuvans/.android/build-cache/a66f801dcb576068e2eb9b6244ac00101560dbcd/output/AndroidManifest.xml:3:5-42
 MERGED from [com.google.android.gms:play-services-basement:9.8.0] /Users/developer_celuvans/.android/build-cache/b667458b223ecfc83b348ce2e023cdaa4ad8feef/output/AndroidManifest.xml:17:5-42
 MERGED from [com.paymentez.paymentezsdk:paymentezsdk:1.0.4] /Users/developer_celuvans/.android/build-cache/e0d6ec5053bec00901a303998191bb618044d736/output/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:appcompat-v7:24.2.0] /Users/developer_celuvans/.android/build-cache/ca255d7aff4b8e53851f0aa950a3127bb8a68ddd/output/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:24.2.0] /Users/developer_celuvans/.android/build-cache/2ce49d76f6f2d0e53098927b9e773b772e6ff8e1/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:24.2.0] /Users/developer_celuvans/.android/build-cache/4dac78d597d50e7a42bd6fbbba1e728f455271ea/output/AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:support-v4:24.2.0] /Users/developer_celuvans/.android/build-cache/96f55cf3389c37c185a9fd73e100c7f387ec8751/output/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:24.2.0] /Users/developer_celuvans/.android/build-cache/e0a7c9403f2b65129d72d920f9384747af57214b/output/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-utils:24.2.0] /Users/developer_celuvans/.android/build-cache/94f2f2c1106eae17b19efcbd9c4d663fed500a37/output/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-media-compat:24.2.0] /Users/developer_celuvans/.android/build-cache/5711fe0e4f13840f2a61a2df60d2912d4e528981/output/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:24.2.0] /Users/developer_celuvans/.android/build-cache/c8668b9253236708296e70d6df8a3ad84be17e06/output/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:24.2.0] /Users/developer_celuvans/.android/build-cache/82a60c891eeae0ae598d1da7495060acf96cd834/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:appcompat-v7:24.2.0] /Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] /Users/developer_celuvans/.android/build-cache/0a2bc345fe957a6390f536f26e514d63bb961d00/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.0] /Users/developer_celuvans/.android/build-cache/6462033f9f038821ddb6f3b8e443aab24f049571/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.2.0] /Users/developer_celuvans/.android/build-cache/690ac0e9f0c27ce19e88c652b73c1264c642ec82/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:24.2.0] /Users/developer_celuvans/.android/build-cache/17412f24d74b541070a435370ce2acd5405d5a3e/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:24.2.0] /Users/developer_celuvans/.android/build-cache/89ab095eff10132861b62f3fd8f6e21ae19733e8/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-media-compat:24.2.0] /Users/developer_celuvans/.android/build-cache/04f44b0cb05ea4fab450a40546eb6f515e1510b0/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:24.2.0] /Users/developer_celuvans/.android/build-cache/e28afc26fce554c4bb1205f137b9a54babcf3e52/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.0] /Users/developer_celuvans/.android/build-cache/1da17f4e520410ea39782cb24fb16acb82fede18/output/AndroidManifest.xml:21:5-23:58
 MERGED from [io.card:android-sdk:5.3.4] /Users/developer_celuvans/.android/build-cache/6cc714b476af58ad6075cef8981601159e61f91b/output/AndroidManifest.xml:7:5-9:41
 MERGED from [info.hoang8f:android-segmented:1.0.6] /Users/developer_celuvans/.android/build-cache/3df01f9408b76278aff462cf53c5bc93ca5eabe9/output/AndroidManifest.xml:7:5-9:41
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:24.2.0] /Users/developer_celuvans/.android/build-cache/ca255d7aff4b8e53851f0aa950a3127bb8a68ddd/output/AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:24.2.0] /Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/developer_celuvans/Documents/workspace/android/UsuarioRamas/tyusuarios-android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/main/AndroidManifest.xml
 uses-feature#0x00020000
 ADDED from [com.google.android.gms:play-services-maps:9.8.0] /Users/developer_celuvans/.android/build-cache/b397c8ec2ee9ddbcc3d4117adeff04c5e78c0f21/output/AndroidManifest.xml:21:5-77
 	android:glEsVersion

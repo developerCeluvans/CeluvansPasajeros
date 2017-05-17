@@ -120,24 +120,36 @@
                         android:background="@android:color/white"
                         android:layout_marginRight="10dp">
 
-                        <EditText
-                            android:id="@+id/autocomplete"
-                            style="@style/RadioButton"
-                            android:singleLine="true"
-                            android:layout_width="350dp"
+                        <RelativeLayout
+                            xmlns:android="http://schemas.android.com/apk/res/android"
+                            xmlns:tools="http://schemas.android.com/tools"
+                            android:layout_width="match_parent"
                             android:layout_height="match_parent"
-                            android:layout_marginRight="15dp"
                             android:layout_weight="1"
-                            android:background="#00000000"
-                            android:drawableLeft="@drawable/draw2left"
-                            android:gravity="center_vertical"
-                            android:ems="10"
-                            android:hint="Destino"
-                            android:textColorHint="@color/text_blue"
-                            app:pacv_languageCode="en"
-                            app:pacv_resultType="no_type"
-                            app:pacv_googleMapsApiKey="@string/google_maps_api_key"
-                            app:pacv_adapterClass="com.seatgeek.placesautocompletedemo.TestPlacesAutocompleteAdapter"/>
+                            tools:context="com.imaginamos.taxisya.activities.MapaActivitys">
+
+                            <AutoCompleteTextView
+                                android:id="@+id/autoCompleteTextView"
+                                android:singleLine="true"
+                                android:layout_width="350dp"
+                                android:layout_height="match_parent"
+                                android:layout_marginRight="15dp"
+                                android:background="#00000000"
+                                android:drawableLeft="@drawable/draw2left"
+                                android:gravity="center_vertical"
+                                android:ems="10"
+                                android:hint="Destino"/>
+
+                            <TextView
+                                android:id="@+id/name"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_alignParentLeft="true"
+                                android:layout_alignParentStart="true"
+                                android:layout_below="@+id/autoCompleteTextView"
+                                android:layout_marginTop="20dp"/>
+
+                        </RelativeLayout>
 
                     </LinearLayout>
 
