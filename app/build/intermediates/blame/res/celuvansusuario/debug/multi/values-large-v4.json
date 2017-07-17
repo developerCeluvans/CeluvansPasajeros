@@ -288,5 +288,295 @@
                 }
             }
         ]
+    },
+    {
+        "outputFile": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/incremental/mergeCeluvansusuarioDebugResources/merged.dir/values-large-v4/values-large-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/values-large-v4/values-large-v4.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 58,
+                        "endOffset": 109
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 114,
+                    "endColumn": 70,
+                    "endOffset": 180
+                },
+                "from": {
+                    "file": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/values-large-v4/values-large-v4.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 114,
+                        "endColumn": 70,
+                        "endOffset": 180
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 185,
+                    "endColumn": 70,
+                    "endOffset": 251
+                },
+                "from": {
+                    "file": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/values-large-v4/values-large-v4.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 185,
+                        "endColumn": 70,
+                        "endOffset": 251
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 256,
+                    "endColumn": 69,
+                    "endOffset": 321
+                },
+                "from": {
+                    "file": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/values-large-v4/values-large-v4.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 256,
+                        "endColumn": 69,
+                        "endOffset": 321
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 326,
+                    "endColumn": 69,
+                    "endOffset": 391
+                },
+                "from": {
+                    "file": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/values-large-v4/values-large-v4.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 326,
+                        "endColumn": 69,
+                        "endOffset": 391
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 396,
+                    "endColumn": 67,
+                    "endOffset": 459
+                },
+                "from": {
+                    "file": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/values-large-v4/values-large-v4.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 396,
+                        "endColumn": 67,
+                        "endOffset": 459
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 464,
+                    "endColumn": 67,
+                    "endOffset": 527
+                },
+                "from": {
+                    "file": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/values-large-v4/values-large-v4.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 464,
+                        "endColumn": 67,
+                        "endOffset": 527
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 532,
+                    "endColumn": 57,
+                    "endOffset": 585
+                },
+                "from": {
+                    "file": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/src/main/res/values-large/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 590,
+                    "endColumn": 55,
+                    "endOffset": 641
+                },
+                "from": {
+                    "file": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/src/main/res/values-large/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 646,
+                    "endColumn": 42,
+                    "endOffset": 684
+                },
+                "from": {
+                    "file": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/src/main/res/values-large/dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 1,
+                        "startOffset": 331,
+                        "endColumn": 39,
+                        "endOffset": 369
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 689,
+                    "endColumn": 42,
+                    "endOffset": 727
+                },
+                "from": {
+                    "file": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/src/main/res/values-large/dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 1,
+                        "startOffset": 290,
+                        "endColumn": 39,
+                        "endOffset": 328
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 732,
+                    "endColumn": 46,
+                    "endOffset": 774
+                },
+                "from": {
+                    "file": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/src/main/res/values-large/dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 245,
+                        "endColumn": 43,
+                        "endOffset": 287
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 779,
+                    "endColumn": 41,
+                    "endOffset": 816
+                },
+                "from": {
+                    "file": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/src/main/res/values-large/dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 205,
+                        "endColumn": 38,
+                        "endOffset": 242
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 821,
+                    "endColumn": 103,
+                    "endOffset": 920
+                },
+                "from": {
+                    "file": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/values-large-v4/values-large-v4.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 532,
+                        "endColumn": 103,
+                        "endOffset": 631
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 925,
+                    "endColumn": 115,
+                    "endOffset": 1036
+                },
+                "from": {
+                    "file": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/values-large-v4/values-large-v4.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 636,
+                        "endColumn": 115,
+                        "endOffset": 747
+                    }
+                }
+            }
+        ]
     }
 ]

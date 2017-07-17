@@ -64,13 +64,6 @@
       <sourceFolder url="file://$MODULE_DIR$/src/celuvansusuario/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/celuvansusuario/rs" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/celuvansusuario/shaders" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/androidTestCeluvansusuario/res" type="java-test-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/src/androidTestCeluvansusuario/resources" type="java-test-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/src/androidTestCeluvansusuario/assets" type="java-test-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/src/androidTestCeluvansusuario/aidl" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/src/androidTestCeluvansusuario/java" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/src/androidTestCeluvansusuario/rs" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/src/androidTestCeluvansusuario/shaders" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/testCeluvansusuario/res" type="java-test-resource" />
       <sourceFolder url="file://$MODULE_DIR$/src/testCeluvansusuario/resources" type="java-test-resource" />
       <sourceFolder url="file://$MODULE_DIR$/src/testCeluvansusuario/assets" type="java-test-resource" />
@@ -78,6 +71,13 @@
       <sourceFolder url="file://$MODULE_DIR$/src/testCeluvansusuario/java" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/testCeluvansusuario/rs" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/testCeluvansusuario/shaders" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTestCeluvansusuario/res" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTestCeluvansusuario/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTestCeluvansusuario/assets" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTestCeluvansusuario/aidl" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTestCeluvansusuario/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTestCeluvansusuario/rs" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTestCeluvansusuario/shaders" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/debug/res" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/src/debug/resources" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/src/debug/assets" type="java-resource" />

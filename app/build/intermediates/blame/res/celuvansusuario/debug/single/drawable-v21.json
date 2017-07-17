@@ -1,7 +1,19 @@
 [
     {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
         "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/drawable-v21/abc_action_bar_item_background_material.xml",
         "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/drawable-v21/abc_edit_text_material.xml"
     },
     {
         "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/drawable-v21/abc_edit_text_material.xml",

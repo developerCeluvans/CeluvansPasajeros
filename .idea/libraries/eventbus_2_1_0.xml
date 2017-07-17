@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="eventbus-2.1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.greenrobot/eventbus/2.1.0/61f34937f8e9b4c692c49e7ba76afb751b9edf43/eventbus-2.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.greenrobot/eventbus/2.1.0/d52ff58b08666a1cbb85b8b97ca3fdce17a3dc69/eventbus-2.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

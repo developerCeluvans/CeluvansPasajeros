@@ -1,10 +1,22 @@
 [
     {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/anim-v21/design_appbar_state_list_animator.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/35bee012e75bc66f29bfce57a7d95341418acc30/output/res/anim-v21/design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/35bee012e75bc66f29bfce57a7d95341418acc30/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
         "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/anim-v21/design_appbar_state_list_animator.xml",
         "source": "/Users/developer_celuvans/.android/build-cache/35bee012e75bc66f29bfce57a7d95341418acc30/output/res/anim-v21/design_appbar_state_list_animator.xml"
     },
     {
         "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/35bee012e75bc66f29bfce57a7d95341418acc30/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/anim-v21/design_bottom_sheet_slide_in.xml",
         "source": "/Users/developer_celuvans/.android/build-cache/35bee012e75bc66f29bfce57a7d95341418acc30/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
     },
     {

@@ -1,5 +1,13 @@
 [
     {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/35bee012e75bc66f29bfce57a7d95341418acc30/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
         "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/color-v23/abc_color_highlight_material.xml",
         "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/color-v23/abc_color_highlight_material.xml"
     },
@@ -12,6 +20,10 @@
         "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/color-v23/abc_tint_switch_thumb.xml"
     },
     {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
         "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/color-v23/abc_tint_default.xml",
         "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/color-v23/abc_tint_default.xml"
     },
@@ -20,7 +32,19 @@
         "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/color-v23/abc_tint_switch_track.xml"
     },
     {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
         "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/color-v23/abc_tint_edittext.xml",
         "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/color-v23/abc_tint_edittext.xml"
     },
     {
@@ -28,12 +52,28 @@
         "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
     },
     {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
         "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/color-v23/abc_tint_seek_thumb.xml",
         "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/color-v23/abc_tint_seek_thumb.xml"
     },
     {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
         "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/color-v23/design_tint_password_toggle.xml",
         "source": "/Users/developer_celuvans/.android/build-cache/35bee012e75bc66f29bfce57a7d95341418acc30/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/color-v23/abc_tint_spinner.xml"
     },
     {
         "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/color-v23/abc_tint_btn_checkable.xml",

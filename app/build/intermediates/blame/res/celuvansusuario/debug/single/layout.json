@@ -1,11 +1,7 @@
 [
     {
-        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/mis_agendamientos.xml",
-        "source": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/celuvansusuario/res/layout/mis_agendamientos.xml"
-    },
-    {
-        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/activity_new_address.xml",
-        "source": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/celuvansusuario/res/layout/activity_new_address.xml"
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
     },
     {
         "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/design_navigation_item_header.xml",
@@ -32,20 +28,380 @@
         "source": "/Users/developer_celuvans/.android/build-cache/35bee012e75bc66f29bfce57a7d95341418acc30/output/res/layout/design_navigation_menu.xml"
     },
     {
-        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/abc_dialog_title_material.xml",
-        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/abc_dialog_title_material.xml"
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/35bee012e75bc66f29bfce57a7d95341418acc30/output/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/activity_solicitando_servicio.xml",
+        "source": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/src/celuvansusuario/res/layout/activity_solicitando_servicio.xml"
     },
     {
         "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/place_autocomplete_fragment.xml",
         "source": "/Users/developer_celuvans/.android/build-cache/b56e068ee11508a48b603c798326e5a38cd2e2dd/output/res/layout/place_autocomplete_fragment.xml"
     },
     {
-        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/place_autocomplete_progress.xml",
-        "source": "/Users/developer_celuvans/.android/build-cache/b56e068ee11508a48b603c798326e5a38cd2e2dd/output/res/layout/place_autocomplete_progress.xml"
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/abc_list_menu_item_checkbox.xml"
     },
     {
         "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/activity_scan_card.xml",
         "source": "/Users/developer_celuvans/.android/build-cache/e0d6ec5053bec00901a303998191bb618044d736/output/res/layout/activity_scan_card.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/activity_my_addresses.xml",
+        "source": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/celuvansusuario/res/layout/activity_my_addresses.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/design_layout_tab_text.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/35bee012e75bc66f29bfce57a7d95341418acc30/output/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/item_address.xml",
+        "source": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/celuvansusuario/res/layout/item_address.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/layout_navbar.xml",
+        "source": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/celuvansusuario/res/layout/layout_navbar.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/notification_template_lines.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/place_autocomplete_item_powered_by_google.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/b56e068ee11508a48b603c798326e5a38cd2e2dd/output/res/layout/place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/activity_add_card.xml",
+        "source": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/src/celuvansusuario/res/layout/activity_add_card.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/mapa_taxista.xml",
+        "source": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/src/celuvansusuario/res/layout/mapa_taxista.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/mapa_taxista.xml",
+        "source": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/celuvansusuario/res/layout/mapa_taxista.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/design_layout_snackbar.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/35bee012e75bc66f29bfce57a7d95341418acc30/output/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/design_navigation_item.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/35bee012e75bc66f29bfce57a7d95341418acc30/output/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/activity_calificar.xml",
+        "source": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/src/celuvansusuario/res/layout/activity_calificar.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/notification_media_action.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/box_day.xml",
+        "source": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/src/celuvansusuario/res/layout/box_day.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/activity_perfil.xml",
+        "source": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/celuvansusuario/res/layout/activity_perfil.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/design_menu_item_action_area.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/35bee012e75bc66f29bfce57a7d95341418acc30/output/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/design_menu_item_action_area.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/35bee012e75bc66f29bfce57a7d95341418acc30/output/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/row_card.xml",
+        "source": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/celuvansusuario/res/layout/row_card.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/design_text_input_password_icon.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/35bee012e75bc66f29bfce57a7d95341418acc30/output/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/item_address.xml",
+        "source": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/src/celuvansusuario/res/layout/item_address.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/design_navigation_item_separator.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/35bee012e75bc66f29bfce57a7d95341418acc30/output/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/design_layout_snackbar.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/35bee012e75bc66f29bfce57a7d95341418acc30/output/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/activity_payments.xml",
+        "source": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/celuvansusuario/res/layout/activity_payments.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/activity_home.xml",
+        "source": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/src/celuvansusuario/res/layout/activity_home.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/item.xml",
+        "source": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/src/celuvansusuario/res/layout/item.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/place_autocomplete_progress.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/b56e068ee11508a48b603c798326e5a38cd2e2dd/output/res/layout/place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/activity_agendar2.xml",
+        "source": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/celuvansusuario/res/layout/activity_agendar2.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/notification_template_media.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/activity_registro.xml",
+        "source": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/src/celuvansusuario/res/layout/activity_registro.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/activity_new_address.xml",
+        "source": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/src/celuvansusuario/res/layout/activity_new_address.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/place_autocomplete_item_powered_by_google.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/b56e068ee11508a48b603c798326e5a38cd2e2dd/output/res/layout/place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/abc_search_view.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/direccion_register.xml",
+        "source": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/src/celuvansusuario/res/layout/direccion_register.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/historial_fila.xml",
+        "source": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/celuvansusuario/res/layout/historial_fila.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/place_autocomplete_fragment.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/b56e068ee11508a48b603c798326e5a38cd2e2dd/output/res/layout/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/activity_reset_pass.xml",
+        "source": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/celuvansusuario/res/layout/activity_reset_pass.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/place_autocomplete_item_prediction.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/b56e068ee11508a48b603c798326e5a38cd2e2dd/output/res/layout/place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/activity_misagendamientos.xml",
+        "source": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/celuvansusuario/res/layout/activity_misagendamientos.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/box_day.xml",
+        "source": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/celuvansusuario/res/layout/box_day.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/activity_add_card.xml",
+        "source": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/celuvansusuario/res/layout/activity_add_card.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/activity_perfil.xml",
+        "source": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/src/celuvansusuario/res/layout/activity_perfil.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/35bee012e75bc66f29bfce57a7d95341418acc30/output/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/design_layout_tab_icon.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/35bee012e75bc66f29bfce57a7d95341418acc30/output/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/activity_historial.xml",
+        "source": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/src/celuvansusuario/res/layout/activity_historial.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/activity_calificar.xml",
+        "source": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/celuvansusuario/res/layout/activity_calificar.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/activity_pagos.xml",
+        "source": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/celuvansusuario/res/layout/activity_pagos.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/activity_my_addresses.xml",
+        "source": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/src/celuvansusuario/res/layout/activity_my_addresses.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/35bee012e75bc66f29bfce57a7d95341418acc30/output/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/mis_agendamientos.xml",
+        "source": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/celuvansusuario/res/layout/mis_agendamientos.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/activity_new_address.xml",
+        "source": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/celuvansusuario/res/layout/activity_new_address.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/activity_reset_pass.xml",
+        "source": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/src/celuvansusuario/res/layout/activity_reset_pass.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/activity_pagos.xml",
+        "source": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/src/celuvansusuario/res/layout/activity_pagos.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/place_autocomplete_progress.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/b56e068ee11508a48b603c798326e5a38cd2e2dd/output/res/layout/place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/design_navigation_menu.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/35bee012e75bc66f29bfce57a7d95341418acc30/output/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/35bee012e75bc66f29bfce57a7d95341418acc30/output/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/historial_fila.xml",
+        "source": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/src/celuvansusuario/res/layout/historial_fila.xml"
     },
     {
         "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/abc_action_mode_close_item_material.xml",
@@ -64,32 +420,36 @@
         "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/abc_alert_dialog_material.xml"
     },
     {
-        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/design_layout_tab_text.xml",
-        "source": "/Users/developer_celuvans/.android/build-cache/35bee012e75bc66f29bfce57a7d95341418acc30/output/res/layout/design_layout_tab_text.xml"
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/activity_map_new_address.xml",
+        "source": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/src/celuvansusuario/res/layout/activity_map_new_address.xml"
     },
     {
-        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/activity_my_addresses.xml",
-        "source": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/celuvansusuario/res/layout/activity_my_addresses.xml"
-    },
-    {
-        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/item_address.xml",
-        "source": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/celuvansusuario/res/layout/item_address.xml"
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/activity_reclamo.xml",
+        "source": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/src/celuvansusuario/res/layout/activity_reclamo.xml"
     },
     {
         "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/design_navigation_item.xml",
         "source": "/Users/developer_celuvans/.android/build-cache/35bee012e75bc66f29bfce57a7d95341418acc30/output/res/layout/design_navigation_item.xml"
     },
     {
-        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/layout_navbar.xml",
-        "source": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/celuvansusuario/res/layout/layout_navbar.xml"
-    },
-    {
         "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/notification_media_action.xml",
         "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/notification_media_action.xml"
     },
     {
-        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/abc_screen_toolbar.xml",
-        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/abc_screen_toolbar.xml"
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/design_layout_tab_text.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/35bee012e75bc66f29bfce57a7d95341418acc30/output/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/activity_pedir.xml",
+        "source": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/src/celuvansusuario/res/layout/activity_pedir.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/design_text_input_password_icon.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/35bee012e75bc66f29bfce57a7d95341418acc30/output/res/layout/design_text_input_password_icon.xml"
     },
     {
         "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/abc_search_dropdown_item_icons_2line.xml",
@@ -100,12 +460,16 @@
         "source": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/celuvansusuario/res/layout/activity_map_new_address.xml"
     },
     {
-        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/mapa_taxista.xml",
-        "source": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/celuvansusuario/res/layout/mapa_taxista.xml"
-    },
-    {
         "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/abc_screen_simple_overlay_action_mode.xml",
         "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/place_autocomplete_item_prediction.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/b56e068ee11508a48b603c798326e5a38cd2e2dd/output/res/layout/place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/activity_confirmacion.xml",
+        "source": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/src/celuvansusuario/res/layout/activity_confirmacion.xml"
     },
     {
         "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/abc_screen_content_include.xml",
@@ -116,24 +480,12 @@
         "source": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/celuvansusuario/res/layout/activity_home.xml"
     },
     {
-        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/abc_popup_menu_header_item_layout.xml",
-        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/abc_popup_menu_header_item_layout.xml"
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/abc_alert_dialog_button_bar_material.xml"
     },
     {
-        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/activity_perfil.xml",
-        "source": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/celuvansusuario/res/layout/activity_perfil.xml"
-    },
-    {
-        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/design_menu_item_action_area.xml",
-        "source": "/Users/developer_celuvans/.android/build-cache/35bee012e75bc66f29bfce57a7d95341418acc30/output/res/layout/design_menu_item_action_area.xml"
-    },
-    {
-        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/row_card.xml",
-        "source": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/celuvansusuario/res/layout/row_card.xml"
-    },
-    {
-        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/design_text_input_password_icon.xml",
-        "source": "/Users/developer_celuvans/.android/build-cache/35bee012e75bc66f29bfce57a7d95341418acc30/output/res/layout/design_text_input_password_icon.xml"
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/notification_template_part_time.xml"
     },
     {
         "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/abc_action_bar_up_container.xml",
@@ -144,12 +496,12 @@
         "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/select_dialog_singlechoice_material.xml"
     },
     {
-        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/notification_template_part_chronometer.xml",
-        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/notification_template_part_chronometer.xml"
-    },
-    {
         "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/abc_activity_chooser_view.xml",
         "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/abc_activity_chooser_view_list_item.xml"
     },
     {
         "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/activity_historial.xml",
@@ -160,48 +512,44 @@
         "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/abc_search_view.xml"
     },
     {
-        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/abc_action_bar_view_list_nav_layout.xml",
-        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/abc_list_menu_item_icon.xml"
     },
     {
-        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/design_navigation_item_separator.xml",
-        "source": "/Users/developer_celuvans/.android/build-cache/35bee012e75bc66f29bfce57a7d95341418acc30/output/res/layout/design_navigation_item_separator.xml"
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/layout_navbar.xml",
+        "source": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/src/celuvansusuario/res/layout/layout_navbar.xml"
     },
     {
         "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/abc_action_menu_layout.xml",
         "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/abc_action_menu_layout.xml"
     },
     {
-        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/design_layout_snackbar.xml",
-        "source": "/Users/developer_celuvans/.android/build-cache/35bee012e75bc66f29bfce57a7d95341418acc30/output/res/layout/design_layout_snackbar.xml"
-    },
-    {
-        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/activity_payments.xml",
-        "source": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/celuvansusuario/res/layout/activity_payments.xml"
-    },
-    {
-        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/abc_list_menu_item_radio.xml",
-        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/abc_list_menu_item_radio.xml"
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/mis_agendamientos.xml",
+        "source": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/src/celuvansusuario/res/layout/mis_agendamientos.xml"
     },
     {
         "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/design_bottom_sheet_dialog.xml",
         "source": "/Users/developer_celuvans/.android/build-cache/35bee012e75bc66f29bfce57a7d95341418acc30/output/res/layout/design_bottom_sheet_dialog.xml"
     },
     {
-        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/activity_agendar2.xml",
-        "source": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/celuvansusuario/res/layout/activity_agendar2.xml"
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/notification_template_big_media_narrow.xml"
     },
     {
-        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/select_dialog_multichoice_material.xml",
-        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/select_dialog_multichoice_material.xml"
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/design_navigation_item_header.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/35bee012e75bc66f29bfce57a7d95341418acc30/output/res/layout/design_navigation_item_header.xml"
     },
     {
-        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/notification_template_media.xml",
-        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/notification_template_media.xml"
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/abc_popup_menu_item_layout.xml"
     },
     {
         "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/abc_list_menu_item_icon.xml",
         "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/activity_scan_card.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/e0d6ec5053bec00901a303998191bb618044d736/output/res/layout/activity_scan_card.xml"
     },
     {
         "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/design_layout_tab_icon.xml",
@@ -212,20 +560,12 @@
         "source": "/Users/developer_celuvans/.android/build-cache/35bee012e75bc66f29bfce57a7d95341418acc30/output/res/layout/design_navigation_menu_item.xml"
     },
     {
-        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/place_autocomplete_item_powered_by_google.xml",
-        "source": "/Users/developer_celuvans/.android/build-cache/b56e068ee11508a48b603c798326e5a38cd2e2dd/output/res/layout/place_autocomplete_item_powered_by_google.xml"
-    },
-    {
-        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/abc_action_bar_title_item.xml",
-        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/abc_action_bar_title_item.xml"
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/activity_login.xml",
+        "source": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/src/celuvansusuario/res/layout/activity_login.xml"
     },
     {
         "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/notification_template_lines.xml",
         "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/notification_template_lines.xml"
-    },
-    {
-        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/notification_template_part_time.xml",
-        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/notification_template_part_time.xml"
     },
     {
         "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/activity_confirmacion.xml",
@@ -236,24 +576,12 @@
         "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/abc_list_menu_item_checkbox.xml"
     },
     {
-        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/historial_fila.xml",
-        "source": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/celuvansusuario/res/layout/historial_fila.xml"
-    },
-    {
         "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/abc_popup_menu_item_layout.xml",
         "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/abc_popup_menu_item_layout.xml"
     },
     {
-        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/notification_media_cancel_action.xml",
-        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/notification_media_cancel_action.xml"
-    },
-    {
-        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/support_simple_spinner_dropdown_item.xml",
-        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/support_simple_spinner_dropdown_item.xml"
-    },
-    {
-        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/select_dialog_item_material.xml",
-        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/select_dialog_item_material.xml"
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/design_navigation_item_separator.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/35bee012e75bc66f29bfce57a7d95341418acc30/output/res/layout/design_navigation_item_separator.xml"
     },
     {
         "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/direccion_register.xml",
@@ -264,36 +592,32 @@
         "source": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/celuvansusuario/res/layout/activity_login.xml"
     },
     {
-        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/activity_reset_pass.xml",
-        "source": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/celuvansusuario/res/layout/activity_reset_pass.xml"
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/select_dialog_item_material.xml"
     },
     {
-        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/place_autocomplete_item_prediction.xml",
-        "source": "/Users/developer_celuvans/.android/build-cache/b56e068ee11508a48b603c798326e5a38cd2e2dd/output/res/layout/place_autocomplete_item_prediction.xml"
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/select_dialog_multichoice_material.xml"
     },
     {
-        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/activity_misagendamientos.xml",
-        "source": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/celuvansusuario/res/layout/activity_misagendamientos.xml"
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/lista_formato.xml",
+        "source": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/src/celuvansusuario/res/layout/lista_formato.xml"
     },
     {
         "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/activity_pedir.xml",
         "source": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/celuvansusuario/res/layout/activity_pedir.xml"
     },
     {
-        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/abc_select_dialog_material.xml",
-        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/abc_select_dialog_material.xml"
-    },
-    {
-        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/box_day.xml",
-        "source": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/celuvansusuario/res/layout/box_day.xml"
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/activity_activity_web_view.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/e0d6ec5053bec00901a303998191bb618044d736/output/res/layout/activity_activity_web_view.xml"
     },
     {
         "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/activity_reclamo.xml",
         "source": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/celuvansusuario/res/layout/activity_reclamo.xml"
-    },
-    {
-        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/activity_add_card.xml",
-        "source": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/celuvansusuario/res/layout/activity_add_card.xml"
     },
     {
         "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/abc_alert_dialog_button_bar_material.xml",
@@ -304,36 +628,48 @@
         "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/abc_screen_simple.xml"
     },
     {
-        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/abc_action_menu_item_layout.xml",
-        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/abc_action_menu_item_layout.xml"
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/notification_template_media.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/notification_template_media.xml"
     },
     {
         "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/abc_activity_chooser_view_list_item.xml",
         "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/abc_activity_chooser_view_list_item.xml"
     },
     {
-        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/abc_list_menu_item_layout.xml",
-        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/abc_list_menu_item_layout.xml"
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/design_navigation_menu_item.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/35bee012e75bc66f29bfce57a7d95341418acc30/output/res/layout/design_navigation_menu_item.xml"
     },
     {
-        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/notification_template_big_media.xml",
-        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/notification_template_big_media.xml"
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/notification_media_cancel_action.xml"
     },
     {
-        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/design_navigation_item_subheader.xml",
-        "source": "/Users/developer_celuvans/.android/build-cache/35bee012e75bc66f29bfce57a7d95341418acc30/output/res/layout/design_navigation_item_subheader.xml"
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/activity_sin_historial.xml",
+        "source": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/src/celuvansusuario/res/layout/activity_sin_historial.xml"
     },
     {
-        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/activity_calificar.xml",
-        "source": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/celuvansusuario/res/layout/activity_calificar.xml"
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/row_card.xml",
+        "source": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/src/celuvansusuario/res/layout/row_card.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/activity_misagendamientos.xml",
+        "source": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/src/celuvansusuario/res/layout/activity_misagendamientos.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/35bee012e75bc66f29bfce57a7d95341418acc30/output/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/abc_action_bar_title_item.xml"
     },
     {
         "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/activity_solicitando_servicio.xml",
         "source": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/celuvansusuario/res/layout/activity_solicitando_servicio.xml"
-    },
-    {
-        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/activity_pagos.xml",
-        "source": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/src/celuvansusuario/res/layout/activity_pagos.xml"
     },
     {
         "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/activity_activity_web_view.xml",
@@ -344,7 +680,19 @@
         "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/abc_expanded_menu_layout.xml"
     },
     {
-        "merged": "/Users/developer_celuvans/Downloads/CeluvansPasajeros-master/app/build/intermediates/res/merged/celuvansusuario/debug/layout/design_layout_snackbar_include.xml",
-        "source": "/Users/developer_celuvans/.android/build-cache/35bee012e75bc66f29bfce57a7d95341418acc30/output/res/layout/design_layout_snackbar_include.xml"
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/activity_agendar2.xml",
+        "source": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/src/celuvansusuario/res/layout/activity_agendar2.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/activity_payments.xml",
+        "source": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/src/celuvansusuario/res/layout/activity_payments.xml"
+    },
+    {
+        "merged": "/Users/developer_celuvans/Documents/workspace/android/CeluvansPasajeros/app/build/intermediates/res/merged/celuvansusuario/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/developer_celuvans/.android/build-cache/c502af841c12e574c3bc842c091eb5a217d47aab/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
     }
 ]
